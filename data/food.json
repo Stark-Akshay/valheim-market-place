@@ -1,0 +1,678 @@
+[
+  {
+    "Name": "Raspberries",
+    "Health": 7,
+    "Stamina": 20,
+    "Eitr": 0,
+    "TotalStats": 27,
+    "BiomeProgression": 1,
+    "PriceCoins": 270
+  },
+  {
+    "Name": "Mushroom",
+    "Health": 15,
+    "Stamina": 15,
+    "Eitr": 0,
+    "TotalStats": 30,
+    "BiomeProgression": 1,
+    "PriceCoins": 300
+  },
+  {
+    "Name": "Grilled neck tail",
+    "Health": 25,
+    "Stamina": 8,
+    "Eitr": 0,
+    "TotalStats": 33,
+    "BiomeProgression": 1,
+    "PriceCoins": 330
+  },
+  {
+    "Name": "Cooked boar meat",
+    "Health": 30,
+    "Stamina": 10,
+    "Eitr": 0,
+    "TotalStats": 40,
+    "BiomeProgression": 1,
+    "PriceCoins": 400
+  },
+  {
+    "Name": "Honey",
+    "Health": 8,
+    "Stamina": 35,
+    "Eitr": 0,
+    "TotalStats": 43,
+    "BiomeProgression": 1,
+    "PriceCoins": 430
+  },
+  {
+    "Name": "Cooked deer meat",
+    "Health": 35,
+    "Stamina": 12,
+    "Eitr": 0,
+    "TotalStats": 47,
+    "BiomeProgression": 1,
+    "PriceCoins": 470
+  },
+  {
+    "Name": "Bukeperries",
+    "Health": 0,
+    "Stamina": 0,
+    "Eitr": 0,
+    "TotalStats": 0,
+    "BiomeProgression": 2,
+    "PriceCoins": 50,
+    "Note": "Nominal price for detrimental item."
+  },
+  {
+    "Name": "Blueberries",
+    "Health": 8,
+    "Stamina": 25,
+    "Eitr": 0,
+    "TotalStats": 33,
+    "BiomeProgression": 2,
+    "PriceCoins": 500
+  },
+  {
+    "Name": "Yellow mushroom",
+    "Health": 10,
+    "Stamina": 30,
+    "Eitr": 0,
+    "TotalStats": 40,
+    "BiomeProgression": 2,
+    "PriceCoins": 600
+  },
+  {
+    "Name": "Carrot",
+    "Health": 10,
+    "Stamina": 32,
+    "Eitr": 0,
+    "TotalStats": 42,
+    "BiomeProgression": 2,
+    "PriceCoins": 630
+  },
+  {
+    "Name": "Boar jerky",
+    "Health": 23,
+    "Stamina": 23,
+    "Eitr": 0,
+    "TotalStats": 46,
+    "BiomeProgression": 2,
+    "PriceCoins": 690
+  },
+  {
+    "Name": "Cooked bear meat",
+    "Health": 40,
+    "Stamina": 13,
+    "Eitr": 0,
+    "TotalStats": 53,
+    "BiomeProgression": 2,
+    "PriceCoins": 800
+  },
+  {
+    "Name": "Minced meat sauce",
+    "Health": 40,
+    "Stamina": 13,
+    "Eitr": 0,
+    "TotalStats": 53,
+    "BiomeProgression": 2,
+    "PriceCoins": 800
+  },
+  {
+    "Name": "Queen's jam",
+    "Health": 14,
+    "Stamina": 40,
+    "Eitr": 0,
+    "TotalStats": 54,
+    "BiomeProgression": 2,
+    "PriceCoins": 810
+  },
+  {
+    "Name": "Carrot soup",
+    "Health": 15,
+    "Stamina": 45,
+    "Eitr": 0,
+    "TotalStats": 60,
+    "BiomeProgression": 2,
+    "PriceCoins": 900
+  },
+  {
+    "Name": "Deer stew",
+    "Health": 45,
+    "Stamina": 15,
+    "Eitr": 0,
+    "TotalStats": 60,
+    "BiomeProgression": 2,
+    "PriceCoins": 900
+  },
+  {
+    "Name": "Cooked fish",
+    "Health": 45,
+    "Stamina": 15,
+    "Eitr": 0,
+    "TotalStats": 60,
+    "BiomeProgression": 3,
+    "PriceCoins": 1200
+  },
+  {
+    "Name": "Muckshake",
+    "Health": 16,
+    "Stamina": 50,
+    "Eitr": 0,
+    "TotalStats": 66,
+    "BiomeProgression": 3,
+    "PriceCoins": 1320
+  },
+  {
+    "Name": "Turnip stew",
+    "Health": 18,
+    "Stamina": 55,
+    "Eitr": 0,
+    "TotalStats": 73,
+    "BiomeProgression": 3,
+    "PriceCoins": 1460
+  },
+  {
+    "Name": "Sausages",
+    "Health": 55,
+    "Stamina": 18,
+    "Eitr": 0,
+    "TotalStats": 73,
+    "BiomeProgression": 3,
+    "PriceCoins": 1460
+  },
+  {
+    "Name": "Black soup",
+    "Health": 50,
+    "Stamina": 17,
+    "Eitr": 0,
+    "TotalStats": 67,
+    "BiomeProgression": 3,
+    "PriceCoins": 1340
+  },
+  {
+    "Name": "Whole roasted Meadow boar",
+    "Health": 35,
+    "Stamina": 35,
+    "Eitr": 0,
+    "TotalStats": 70,
+    "BiomeProgression": 3,
+    "PriceCoins": 4200,
+    "Note": "Platter food with x3 price multiplier."
+  },
+  {
+    "Name": "Black Forest buffet platter",
+    "Health": 35,
+    "Stamina": 35,
+    "Eitr": 0,
+    "TotalStats": 70,
+    "BiomeProgression": 3,
+    "PriceCoins": 4200,
+    "Note": "Platter food with x3 price multiplier."
+  },
+  {
+    "Name": "Swamp dweller's delight",
+    "Health": 35,
+    "Stamina": 35,
+    "Eitr": 0,
+    "TotalStats": 70,
+    "BiomeProgression": 3,
+    "PriceCoins": 4200,
+    "Note": "Platter food with x3 price multiplier."
+  },
+  {
+    "Name": "Cooked serpent meat",
+    "Health": 70,
+    "Stamina": 23,
+    "Eitr": 0,
+    "TotalStats": 93,
+    "BiomeProgression": 3,
+    "PriceCoins": 1860
+  },
+  {
+    "Name": "Serpent stew",
+    "Health": 80,
+    "Stamina": 26,
+    "Eitr": 0,
+    "TotalStats": 106,
+    "BiomeProgression": 3,
+    "PriceCoins": 2120
+  },
+  {
+    "Name": "Sailor's bounty",
+    "Health": 45,
+    "Stamina": 45,
+    "Eitr": 0,
+    "TotalStats": 90,
+    "BiomeProgression": 3,
+    "PriceCoins": 5400,
+    "Note": "Platter food with x3 price multiplier."
+  },
+  {
+    "Name": "Onion",
+    "Health": 13,
+    "Stamina": 40,
+    "Eitr": 0,
+    "TotalStats": 53,
+    "BiomeProgression": 4,
+    "PriceCoins": 1590
+  },
+  {
+    "Name": "Cooked wolf meat",
+    "Health": 45,
+    "Stamina": 15,
+    "Eitr": 0,
+    "TotalStats": 60,
+    "BiomeProgression": 4,
+    "PriceCoins": 1800
+  },
+  {
+    "Name": "Wolf jerky",
+    "Health": 33,
+    "Stamina": 33,
+    "Eitr": 0,
+    "TotalStats": 66,
+    "BiomeProgression": 4,
+    "PriceCoins": 1980
+  },
+  {
+    "Name": "Onion soup",
+    "Health": 20,
+    "Stamina": 60,
+    "Eitr": 0,
+    "TotalStats": 80,
+    "BiomeProgression": 4,
+    "PriceCoins": 2400
+  },
+  {
+    "Name": "Wolf skewer",
+    "Health": 65,
+    "Stamina": 21,
+    "Eitr": 0,
+    "TotalStats": 86,
+    "BiomeProgression": 4,
+    "PriceCoins": 2580
+  },
+  {
+    "Name": "Eyescream",
+    "Health": 21,
+    "Stamina": 65,
+    "Eitr": 0,
+    "TotalStats": 86,
+    "BiomeProgression": 4,
+    "PriceCoins": 2580
+  },
+  {
+    "Name": "Hearty Mountain logger's stew",
+    "Health": 45,
+    "Stamina": 45,
+    "Eitr": 0,
+    "TotalStats": 90,
+    "BiomeProgression": 4,
+    "PriceCoins": 8100,
+    "Note": "Platter food with x3 price multiplier."
+  },
+  {
+    "Name": "Cloudberries",
+    "Health": 13,
+    "Stamina": 40,
+    "Eitr": 0,
+    "TotalStats": 53,
+    "BiomeProgression": 5,
+    "PriceCoins": 2120
+  },
+  {
+    "Name": "Cooked lox meat",
+    "Health": 50,
+    "Stamina": 16,
+    "Eitr": 0,
+    "TotalStats": 66,
+    "BiomeProgression": 5,
+    "PriceCoins": 2640
+  },
+  {
+    "Name": "Fish wraps",
+    "Health": 70,
+    "Stamina": 23,
+    "Eitr": 0,
+    "TotalStats": 93,
+    "BiomeProgression": 5,
+    "PriceCoins": 3720
+  },
+  {
+    "Name": "Lox meat pie",
+    "Health": 75,
+    "Stamina": 24,
+    "Eitr": 0,
+    "TotalStats": 99,
+    "BiomeProgression": 5,
+    "PriceCoins": 3960
+  },
+  {
+    "Name": "Blood pudding",
+    "Health": 25,
+    "Stamina": 75,
+    "Eitr": 0,
+    "TotalStats": 100,
+    "BiomeProgression": 5,
+    "PriceCoins": 4000
+  },
+  {
+    "Name": "Bread",
+    "Health": 23,
+    "Stamina": 70,
+    "Eitr": 0,
+    "TotalStats": 93,
+    "BiomeProgression": 5,
+    "PriceCoins": 3720
+  },
+  {
+    "Name": "Plains pie picnic",
+    "Health": 55,
+    "Stamina": 55,
+    "Eitr": 0,
+    "TotalStats": 110,
+    "BiomeProgression": 5,
+    "PriceCoins": 13200,
+    "Note": "Platter food with x3 price multiplier."
+  },
+  {
+    "Name": "Magecap",
+    "Health": 25,
+    "Stamina": 25,
+    "Eitr": 25,
+    "TotalStats": 75,
+    "BiomeProgression": 6,
+    "PriceCoins": 4500
+  },
+  {
+    "Name": "Jotun puffs",
+    "Health": 25,
+    "Stamina": 25,
+    "Eitr": 0,
+    "TotalStats": 50,
+    "BiomeProgression": 6,
+    "PriceCoins": 3000
+  },
+  {
+    "Name": "Cooked egg",
+    "Health": 35,
+    "Stamina": 12,
+    "Eitr": 0,
+    "TotalStats": 47,
+    "BiomeProgression": 6,
+    "PriceCoins": 2820
+  },
+  {
+    "Name": "Cooked seeker meat",
+    "Health": 60,
+    "Stamina": 20,
+    "Eitr": 0,
+    "TotalStats": 80,
+    "BiomeProgression": 6,
+    "PriceCoins": 4800
+  },
+  {
+    "Name": "Cooked hare meat",
+    "Health": 60,
+    "Stamina": 20,
+    "Eitr": 0,
+    "TotalStats": 80,
+    "BiomeProgression": 6,
+    "PriceCoins": 4800
+  },
+  {
+    "Name": "Cooked chicken meat",
+    "Health": 60,
+    "Stamina": 20,
+    "Eitr": 0,
+    "TotalStats": 80,
+    "BiomeProgression": 6,
+    "PriceCoins": 4800
+  },
+  {
+    "Name": "Meat platter",
+    "Health": 80,
+    "Stamina": 26,
+    "Eitr": 0,
+    "TotalStats": 106,
+    "BiomeProgression": 6,
+    "PriceCoins": 6360
+  },
+  {
+    "Name": "Honey glazed chicken",
+    "Health": 80,
+    "Stamina": 26,
+    "Eitr": 0,
+    "TotalStats": 106,
+    "BiomeProgression": 6,
+    "PriceCoins": 6360
+  },
+  {
+    "Name": "Misthare supreme",
+    "Health": 85,
+    "Stamina": 28,
+    "Eitr": 0,
+    "TotalStats": 113,
+    "BiomeProgression": 6,
+    "PriceCoins": 6780
+  },
+  {
+    "Name": "Salad",
+    "Health": 26,
+    "Stamina": 80,
+    "Eitr": 0,
+    "TotalStats": 106,
+    "BiomeProgression": 6,
+    "PriceCoins": 6360
+  },
+  {
+    "Name": "Mushroom omelette",
+    "Health": 28,
+    "Stamina": 85,
+    "Eitr": 0,
+    "TotalStats": 113,
+    "BiomeProgression": 6,
+    "PriceCoins": 6780
+  },
+  {
+    "Name": "Fish 'n' bread",
+    "Health": 30,
+    "Stamina": 90,
+    "Eitr": 0,
+    "TotalStats": 120,
+    "BiomeProgression": 6,
+    "PriceCoins": 7200
+  },
+  {
+    "Name": "Stuffed mushroom",
+    "Health": 25,
+    "Stamina": 12,
+    "Eitr": 75,
+    "TotalStats": 112,
+    "BiomeProgression": 6,
+    "PriceCoins": 6720
+  },
+  {
+    "Name": "Yggdrasil porridge",
+    "Health": 27,
+    "Stamina": 13,
+    "Eitr": 80,
+    "TotalStats": 120,
+    "BiomeProgression": 6,
+    "PriceCoins": 7200
+  },
+  {
+    "Name": "Seeker aspic",
+    "Health": 28,
+    "Stamina": 14,
+    "Eitr": 85,
+    "TotalStats": 127,
+    "BiomeProgression": 6,
+    "PriceCoins": 7620
+  },
+  {
+    "Name": "Mushrooms galore á la Mistlands",
+    "Health": 65,
+    "Stamina": 65,
+    "Eitr": 33,
+    "TotalStats": 163,
+    "BiomeProgression": 6,
+    "PriceCoins": 29340,
+    "Note": "Platter food with x3 price multiplier."
+  },
+  {
+    "Name": "Rotten meat",
+    "Health": 0,
+    "Stamina": 0,
+    "Eitr": 0,
+    "TotalStats": 0,
+    "BiomeProgression": 7,
+    "PriceCoins": 10,
+    "Note": "Nominal price for detrimental item."
+  },
+  {
+    "Name": "Smoke puff",
+    "Health": 15,
+    "Stamina": 15,
+    "Eitr": 0,
+    "TotalStats": 30,
+    "BiomeProgression": 7,
+    "PriceCoins": 2400
+  },
+  {
+    "Name": "Fiddlehead",
+    "Health": 30,
+    "Stamina": 30,
+    "Eitr": 0,
+    "TotalStats": 60,
+    "BiomeProgression": 7,
+    "PriceCoins": 4800
+  },
+  {
+    "Name": "Vineberry cluster",
+    "Health": 30,
+    "Stamina": 30,
+    "Eitr": 30,
+    "TotalStats": 90,
+    "BiomeProgression": 7,
+    "PriceCoins": 7200
+  },
+  {
+    "Name": "Cooked asksvin tail",
+    "Health": 70,
+    "Stamina": 24,
+    "Eitr": 0,
+    "TotalStats": 94,
+    "BiomeProgression": 7,
+    "PriceCoins": 7520
+  },
+  {
+    "Name": "Cooked volture meat",
+    "Health": 70,
+    "Stamina": 24,
+    "Eitr": 0,
+    "TotalStats": 94,
+    "BiomeProgression": 7,
+    "PriceCoins": 7520
+  },
+  {
+    "Name": "Cooked bonemaw meat",
+    "Health": 90,
+    "Stamina": 30,
+    "Eitr": 0,
+    "TotalStats": 120,
+    "BiomeProgression": 7,
+    "PriceCoins": 9600
+  },
+  {
+    "Name": "Fiery svinstew",
+    "Health": 95,
+    "Stamina": 32,
+    "Eitr": 0,
+    "TotalStats": 127,
+    "BiomeProgression": 7,
+    "PriceCoins": 10160
+  },
+  {
+    "Name": "Mashed meat",
+    "Health": 100,
+    "Stamina": 34,
+    "Eitr": 0,
+    "TotalStats": 134,
+    "BiomeProgression": 7,
+    "PriceCoins": 10720
+  },
+  {
+    "Name": "Piquant pie",
+    "Health": 105,
+    "Stamina": 35,
+    "Eitr": 0,
+    "TotalStats": 140,
+    "BiomeProgression": 7,
+    "PriceCoins": 11200
+  },
+  {
+    "Name": "Spicy marmalade",
+    "Health": 30,
+    "Stamina": 90,
+    "Eitr": 0,
+    "TotalStats": 120,
+    "BiomeProgression": 7,
+    "PriceCoins": 9600
+  },
+  {
+    "Name": "Scorching medley",
+    "Health": 32,
+    "Stamina": 95,
+    "Eitr": 0,
+    "TotalStats": 127,
+    "BiomeProgression": 7,
+    "PriceCoins": 10160
+  },
+  {
+    "Name": "Roasted crust pie",
+    "Health": 34,
+    "Stamina": 100,
+    "Eitr": 0,
+    "TotalStats": 134,
+    "BiomeProgression": 7,
+    "PriceCoins": 10720
+  },
+  {
+    "Name": "Sizzling berry broth",
+    "Health": 28,
+    "Stamina": 14,
+    "Eitr": 85,
+    "TotalStats": 127,
+    "BiomeProgression": 7,
+    "PriceCoins": 10160
+  },
+  {
+    "Name": "Sparkling shroomshake",
+    "Health": 30,
+    "Stamina": 15,
+    "Eitr": 90,
+    "TotalStats": 135,
+    "BiomeProgression": 7,
+    "PriceCoins": 10800
+  },
+  {
+    "Name": "Marinated greens",
+    "Health": 32,
+    "Stamina": 16,
+    "Eitr": 95,
+    "TotalStats": 143,
+    "BiomeProgression": 7,
+    "PriceCoins": 11440
+  },
+  {
+    "Name": "Ashlands gourmet bowl",
+    "Health": 75,
+    "Stamina": 75,
+    "Eitr": 38,
+    "TotalStats": 188,
+    "BiomeProgression": 7,
+    "PriceCoins": 45120,
+    "Note": "Platter food with x3 price multiplier."
+  }
+]
