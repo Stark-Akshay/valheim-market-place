@@ -1295,21 +1295,6 @@
     "Price": 2500
   },
   {
-    "Name": "Bone Shield",
-    "Icon": "",
-    "Class": "Shield",
-    "Stamina": 8,
-    "Durability": 100,
-    "Source": "Found in Swamp Graves.",
-    "ID": "ShieldBone",
-    "Crafting": {
-      "Materials": ["Bone Fragments x10", "Leather Scraps x2"],
-      "Station": "Workbench lvl\u202f2"
-    },
-    "Rarity": "Uncommon",
-    "Price": 5000
-  },
-  {
     "Name": "Bronze Helmet",
     "Icon": "",
     "Class": "Armor",
