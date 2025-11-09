@@ -99,8 +99,8 @@
       "Materials": ["Silver Ingot x4", "Poison Gland x2", "Core Wood x20"],
       "Station": "Forge lvl 3"
     },
-    "Rarity": "Rare",
-    "Price": 40000
+    "Rarity": "Uncommon",
+    "Price": 24000
   },
   {
     "Name": "Berserkir Axes",
@@ -116,8 +116,8 @@
       "Materials": ["Black Metal Ingot x4", "Yggdrasil Shoot x10"],
       "Station": "Forge lvl 4"
     },
-    "Rarity": "Very Rare",
-    "Price": 50000
+    "Rarity": "Legendary",
+    "Price": 75000
   },
   {
     "Name": "Battleaxe",
@@ -151,8 +151,8 @@
       "Materials": ["Crystal Fragment x3", "Iron Ingot x4"],
       "Station": "Forge lvl 3"
     },
-    "Rarity": "Rare",
-    "Price": 22000
+    "Rarity": "Legendary",
+    "Price": 52800
   },
   {
     "Name": "Black Metal Battleaxe",
@@ -168,8 +168,8 @@
       "Materials": ["Black Metal Ingot x3", "Yggdrasil Shoot x15"],
       "Station": "Forge lvl 4"
     },
-    "Rarity": "Very Rare",
-    "Price": 48000
+    "Rarity": "Rare",
+    "Price": 30000
   },
   {
     "Name": "Skull Splittur",
@@ -185,8 +185,8 @@
       "Materials": ["Legendary Core x1", "Black Metal Ingot x4"],
       "Station": "Forge lvl 5"
     },
-    "Rarity": "Legendary",
-    "Price": 52000
+    "Rarity": "Very Rare",
+    "Price": 34700
   },
   {
     "Name": "Torch",
@@ -198,7 +198,7 @@
     "Knockback": 30,
     "StaminaPrimary": 4,
     "StaminaSecondary": null,
-    "Notes": "One‑handed utility club",
+    "Notes": "One-handed utility club",
     "Crafting": {
       "Materials": ["Wood x1", "Resin x1"],
       "Station": "Workbench lvl 1"
@@ -215,7 +215,7 @@
     "Knockback": 30,
     "StaminaPrimary": 6,
     "StaminaSecondary": null,
-    "Notes": "One‑handed club",
+    "Notes": "One-handed club",
     "Crafting": {
       "Materials": ["Wood x8", "Stone x4"],
       "Station": "Workbench lvl 1"
@@ -232,7 +232,7 @@
     "Knockback": 80,
     "StaminaPrimary": 8,
     "StaminaSecondary": 16,
-    "Notes": "One‑handed mace",
+    "Notes": "One-handed mace",
     "Crafting": {
       "Materials": ["Wood x10", "Bronze Ingot x2"],
       "Station": "Forge lvl 1"
@@ -249,7 +249,7 @@
     "Knockback": 90,
     "StaminaPrimary": 10,
     "StaminaSecondary": 20,
-    "Notes": "One‑handed mace",
+    "Notes": "One-handed mace",
     "Crafting": {
       "Materials": ["Wood x15", "Iron Ingot x2"],
       "Station": "Forge lvl 2"
@@ -268,13 +268,13 @@
     "Knockback": 100,
     "StaminaPrimary": 12,
     "StaminaSecondary": 24,
-    "Notes": "One‑handed elemental mace",
+    "Notes": "One-handed elemental mace",
     "Crafting": {
       "Materials": ["Yggdrasil Shoot x5", "Silver Ingot x3", "Spirit Shard x2"],
       "Station": "Forge lvl 3"
     },
-    "Rarity": "Rare",
-    "Price": 25000
+    "Rarity": "Legendary",
+    "Price": 60000
   },
   {
     "Name": "Porcupine",
@@ -286,7 +286,7 @@
     "Knockback": 100,
     "StaminaPrimary": 14,
     "StaminaSecondary": 28,
-    "Notes": "One‑handed hybrid mace/pierce weapon",
+    "Notes": "One-handed hybrid mace/pierce weapon",
     "Crafting": {
       "Materials": ["Iron Ingot x3", "Porcupine Quill x10"],
       "Station": "Forge lvl 2"
@@ -303,7 +303,7 @@
     "Knockback": 100,
     "StaminaPrimary": 16,
     "StaminaSecondary": 28,
-    "Notes": "One‑handed high‑tier mace",
+    "Notes": "One-handed high-tier mace",
     "Crafting": {
       "Materials": ["Black Metal Ingot x3", "Flame Orb x2"],
       "Station": "Forge lvl 4"
@@ -321,9 +321,14 @@
     "Knockback": 150,
     "StaminaPrimary": 12,
     "StaminaSecondary": null,
-    "Notes": "Two‑handed AoE sledgehammer club",
+    "Notes": "Two-handed AoE sledgehammer club",
     "Crafting": {
-      "Materials": ["Core Wood x10", "Deer Trophy x4", "Leather Scraps x2", "Bone Fragments x20"],
+      "Materials": [
+        "Core Wood x10",
+        "Deer Trophy x4",
+        "Leather Scraps x2",
+        "Bone Fragments x20"
+      ],
       "Station": "Workbench lvl 2"
     },
     "Rarity": "Uncommon",
@@ -338,7 +343,7 @@
     "Knockback": 200,
     "StaminaPrimary": 20,
     "StaminaSecondary": null,
-    "Notes": "Two‑handed sledgehammer with heavy stagger",
+    "Notes": "Two-handed sledgehammer with heavy stagger",
     "Crafting": {
       "Materials": ["Iron Ingot x4", "Wood x20"],
       "Station": "Forge lvl 2"
@@ -355,9 +360,13 @@
     "Knockback": 210,
     "StaminaPrimary": 28,
     "StaminaSecondary": null,
-    "Notes": "Two‑handed end‑tier sledgehammer with huge AoE",
+    "Notes": "Two-handed end-tier sledgehammer with huge AoE",
     "Crafting": {
-      "Materials": ["Black Metal Ingot x4", "Ancient Bark x20", "Yggdrasil Shoot x10"],
+      "Materials": [
+        "Black Metal Ingot x4",
+        "Ancient Bark x20",
+        "Yggdrasil Shoot x10"
+      ],
       "Station": "Forge lvl 4"
     },
     "Rarity": "Legendary",
@@ -406,8 +415,8 @@
       "Materials": ["Silver Ingot x3", "Fine Wood x5", "Leather Scraps x3"],
       "Station": "Forge lvl 3"
     },
-    "Rarity": "Rare",
-    "Price": 25000
+    "Rarity": "Very Rare",
+    "Price": 40000
   },
   {
     "Name": "Black Metal Sword",
@@ -418,7 +427,11 @@
     "StaminaPrimary": 14,
     "StaminaSecondary": 28,
     "Crafting": {
-      "Materials": ["Black Metal Ingot x2", "Yggdrasil Shoot x10", "Leather Scraps x4"],
+      "Materials": [
+        "Black Metal Ingot x2",
+        "Yggdrasil Shoot x10",
+        "Leather Scraps x4"
+      ],
       "Station": "Forge lvl 4"
     },
     "Rarity": "Very Rare",
@@ -438,8 +451,8 @@
       "Materials": ["Yggdrasil Shoot x8", "Silver Ingot x4", "Fine Wood x6"],
       "Station": "Forge lvl 3"
     },
-    "Rarity": "Rare",
-    "Price": 28000
+    "Rarity": "Legendary",
+    "Price": 67200
   },
   {
     "Name": "Nidhögg",
@@ -450,11 +463,15 @@
     "StaminaPrimary": 16,
     "StaminaSecondary": 32,
     "Crafting": {
-      "Materials": ["Legendary Core x1", "Black Metal Ingot x3", "Yggdrasil Shoot x12"],
+      "Materials": [
+        "Legendary Core x1",
+        "Black Metal Ingot x3",
+        "Yggdrasil Shoot x12"
+      ],
       "Station": "Forge lvl 5"
     },
-    "Rarity": "Legendary",
-    "Price": 52000
+    "Rarity": "Very Rare",
+    "Price": 34700
   },
   {
     "Name": "Dyrnwyn",
@@ -469,8 +486,8 @@
       "Materials": ["Flametal x20", "Surtling Core x3", "Fine Wood x8"],
       "Station": "Forge lvl 5"
     },
-    "Rarity": "Legendary",
-    "Price": 53000
+    "Rarity": "Mythic",
+    "Price": 70700
   },
   {
     "Name": "Krom",
@@ -484,8 +501,8 @@
       "Materials": ["Iron Ingot x10", "Bronze Ingot x20", "Scale Hide x5"],
       "Station": "Black Forge lvl 1"
     },
-    "Rarity": "Legendary",
-    "Price": 55000
+    "Rarity": "Very Rare",
+    "Price": 36700
   },
   {
     "Name": "Slayer",
@@ -496,11 +513,15 @@
     "StaminaPrimary": 20,
     "StaminaSecondary": 40,
     "Crafting": {
-      "Materials": ["Black Metal Ingot x4", "Legendary Core x2", "Yggdrasil Shoot x15"],
+      "Materials": [
+        "Black Metal Ingot x4",
+        "Legendary Core x2",
+        "Yggdrasil Shoot x15"
+      ],
       "Station": "Forge lvl 5"
     },
-    "Rarity": "Mythic",
-    "Price": 60000
+    "Rarity": "Legendary",
+    "Price": 45000
   },
   {
     "Name": "Flint Spear",
@@ -559,8 +580,8 @@
       "Materials": ["Bone Fragments x20", "Iron Ingot x3"],
       "Station": "Forge lvl 2"
     },
-    "Rarity": "Rare",
-    "Price": 20000
+    "Rarity": "Common",
+    "Price": 8000
   },
   {
     "Name": "Carapace Spear",
@@ -600,7 +621,7 @@
     },
     "StaminaPrimary": 12,
     "StaminaSecondary": 24,
-    "Notes": "One‑handed atgeir with moderate pierce",
+    "Notes": "One-handed atgeir with moderate pierce",
     "Crafting": {
       "Materials": ["Wood x10", "Bronze Ingot x4"],
       "Station": "Forge lvl 1"
@@ -632,7 +653,7 @@
     },
     "StaminaPrimary": 18,
     "StaminaSecondary": 36,
-    "Notes": "High‑tier atgeir, heavy pierce and stamina cost",
+    "Notes": "High-tier atgeir, heavy pierce and stamina cost",
     "Crafting": {
       "Materials": ["Black Metal Ingot x2", "Core Wood x20"],
       "Station": "Forge lvl 4"
@@ -651,7 +672,11 @@
     "StaminaSecondary": 40,
     "Notes": "Legendary atgeir with lightning damage",
     "Crafting": {
-      "Materials": ["Legendary Core x1", "Yggdrasil Shoot x10", "Silver Ingot x5"],
+      "Materials": [
+        "Legendary Core x1",
+        "Yggdrasil Shoot x10",
+        "Silver Ingot x5"
+      ],
       "Station": "Forge lvl 5"
     },
     "Rarity": "Legendary",
@@ -702,8 +727,8 @@
       "Materials": ["Steel Ingot x2", "Leather Scraps x5"],
       "Station": "Forge lvl 2"
     },
-    "Rarity": "Rare",
-    "Price": 12000
+    "Rarity": "Uncommon",
+    "Price": 7200
   },
   {
     "Name": "Abyssal Razor",
@@ -735,8 +760,8 @@
       "Materials": ["Silver Ingot x3", "Leather Scraps x3"],
       "Station": "Forge lvl 3"
     },
-    "Rarity": "Rare",
-    "Price": 15000
+    "Rarity": "Common",
+    "Price": 6000
   },
   {
     "Name": "Black Metal Knife",
@@ -751,8 +776,8 @@
       "Materials": ["Black Metal Ingot x2", "Yggdrasil Shoot x5"],
       "Station": "Forge lvl 4"
     },
-    "Rarity": "Very Rare",
-    "Price": 30000
+    "Rarity": "Rare",
+    "Price": 18800
   },
   {
     "Name": "Skoll and Hati",
@@ -763,10 +788,10 @@
     },
     "StaminaPrimary": 14,
     "StaminaSecondary": 42,
-    "Notes": "Dual‑wielded knives",
+    "Notes": "Dual-wielded knives",
     "Crafting": {
       "Materials": ["Silver Ingot x2", "Bone Fragments x10"],
-      "Station": "Forge lvl 3"
+      "Station": "Forge lvl202f3"
     },
     "Rarity": "Rare",
     "Price": 18000
@@ -798,8 +823,8 @@
       "Materials": ["Bone Fragments x20", "Iron Ingot x2"],
       "Station": "Forge lvl 2"
     },
-    "Rarity": "Rare",
-    "Price": 14000
+    "Rarity": "Very Rare",
+    "Price": 22400
   },
   {
     "Name": "Vilebone Maulclaws",
@@ -814,8 +839,8 @@
       "Materials": ["Bone Fragments x30", "Carapace x5"],
       "Station": "Forge lvl 2"
     },
-    "Rarity": "Rare",
-    "Price": 16000
+    "Rarity": "Very Rare",
+    "Price": 25600
   },
   {
     "Name": "Banded Shield",
@@ -1031,7 +1056,24 @@
     "ParryBonus": "1.5x",
     "MovementSpeed": "-5%",
     "Crafting": {
-      "Materials": ["Silver Ingot x2", "Leather Scraps x2"],
+      "Materials": ["Silver Ingot x2", "Wood x5"],
+      "Station": "Forge lvl 3"
+    },
+    "Rarity": "Rare",
+    "Price": 16000
+  },
+  {
+    "Name": "Silver Tower Shield",
+    "Icon": "",
+    "Type": "Tower",
+    "BlockArmorMin": 84,
+    "BlockArmorMax": 96,
+    "BlockForceMin": 130,
+    "BlockForceMax": 140,
+    "ParryBonus": null,
+    "MovementSpeed": "-10%",
+    "Crafting": {
+      "Materials": ["Silver Ingot x3", "Wood x10"],
       "Station": "Forge lvl 3"
     },
     "Rarity": "Rare",
@@ -1041,753 +1083,56 @@
     "Name": "Wood Shield",
     "Icon": "",
     "Type": "Round",
-    "BlockArmorMin": 6,
-    "BlockArmorMax": 18,
-    "BlockForceMin": 20,
-    "BlockForceMax": 30,
+    "BlockArmorMin": 16,
+    "BlockArmorMax": 28,
+    "BlockForceMin": 30,
     "ParryBonus": "1.5x",
     "MovementSpeed": "-5%",
     "Crafting": {
-      "Materials": ["Wood x8"],
-      "Station": "Workbench lvl 1"
+      "Materials": ["Wood x10", "Leather Scraps x2"],
+      "Station": "Workbench lvl\u202f1"
     },
     "Rarity": "Common",
-    "Price": 1000
+    "Price": 2000
   },
   {
     "Name": "Wood Tower Shield",
     "Icon": "",
     "Type": "Tower",
-    "BlockArmorMin": 10,
-    "BlockArmorMax": 22,
-    "BlockForceMin": 100,
-    "BlockForceMax": 110,
+    "BlockArmorMin": 28,
+    "BlockArmorMax": 40,
+    "BlockForceMin": 60,
+    "BlockForceMax": 70,
     "ParryBonus": null,
     "MovementSpeed": "-10%",
     "Crafting": {
-      "Materials": ["Wood x12"],
-      "Station": "Workbench lvl 1"
+      "Materials": ["Wood x15", "Leather Scraps x4"],
+      "Station": "Workbench lvl\u202f1"
+    },
+    "Rarity": "Uncommon",
+    "Price": 4000
+  },
+  {
+    "Name": "Wood Axe",
+    "Icon": "",
+    "Damage": {
+      "Slash": "12/28",
+      "Chop": "18/27"
+    },
+    "StaminaPrimary": 5,
+    "StaminaSecondary": 10,
+    "AbleToChop": "Up to Fine Wood",
+    "Crafting": {
+      "Materials": ["Wood x4"],
+      "Station": "Workbench lvl\u202f1"
     },
     "Rarity": "Common",
     "Price": 1500
-  },
-  {
-    "Name": "Crude Bow",
-    "Icon": "",
-    "StaminaPerSecond": 4,
-    "Damage": {
-      "Pierce": "22/31"
-    },
-    "Knockback": 0,
-    "Backstab": 3,
-    "Velocity": "35‑50 m/s",
-    "SpreadMin": "1°",
-    "SpreadMax": "20°",
-    "AttackNoise": "15 m",
-    "HitNoise": "8 m",
-    "Crafting": {
-      "Materials": ["Wood x10", "Linen Thread x2"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 7000
-  },
-  {
-    "Name": "Finewood Bow",
-    "Icon": "",
-    "StaminaPerSecond": 6,
-    "Damage": {
-      "Pierce": "32/41"
-    },
-    "Knockback": 5,
-    "Backstab": 3,
-    "Velocity": "50 m/s",
-    "SpreadMin": "1°",
-    "SpreadMax": "20°",
-    "AttackNoise": "15 m",
-    "HitNoise": "8 m",
-    "Crafting": {
-      "Materials": ["Fine Wood x15", "Linen Thread x3"],
-      "Station": "Workbench lvl 2"
-    },
-    "Rarity": "Uncommon",
-    "Price": 11000
-  },
-  {
-    "Name": "Huntsman Bow",
-    "Icon": "",
-    "StaminaPerSecond": 8,
-    "Damage": {
-      "Pierce": "42/51"
-    },
-    "Knockback": 10,
-    "Backstab": 3,
-    "Velocity": "50 m/s",   
-    "SpreadMin": "0°",
-    "SpreadMax": "20°",
-    "AttackNoise": "4 m",
-    "HitNoise": "4 m",
-    "Crafting": {
-      "Materials": ["Fine Wood x20", "Feathers x10", "Linen Thread x4"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Rare",
-    "Price": 16000
-  },
-  {
-    "Name": "Draugr Fang",
-    "Icon": "",
-    "StaminaPerSecond": 10,
-    "Damage": {
-      "Pierce": "47/56",
-      "Poison": "5/20"
-    },
-    "Knockback": 20,
-    "Backstab": 3,
-    "Velocity": "60 m/s",
-    "SpreadMin": "0°",
-    "SpreadMax": "20°",
-    "AttackNoise": "15 m",
-    "HitNoise": "8 m",
-    "Crafting": {
-      "Materials": ["Bone Fragments x10", "Leather Scraps x2"],
-      "Station": "Forge lvl 3"
-    },
-    "Rarity": "Rare",
-    "Price": 14000
-  },
-  {
-    "Name": "Spinesnap",
-    "Icon": "",
-    "StaminaPerSecond": 14,
-    "Damage": {
-      "Pierce": "72/84",
-      "Spirit": "5/20"
-    },
-    "Knockback": 25,
-    "Backstab": 3,
-    "Velocity": "60 m/s",
-    "SpreadMin": "0°",
-    "SpreadMax": "20°",
-    "Crafting": {
-      "Materials": ["Wood x25", "Crystal Fragment x2"],
-      "Station": "Forge lvl 4"
-    },
-    "Rarity": "Very Rare",
-    "Price": 32000
-  },
-  {
-    "Name": "Ash Fang",
-    "Icon": "",
-    "StaminaPerSecond": 14,
-    "Damage": {
-      "Pierce": "82/94",
-      "Spirit": "0/15"
-    },
-    "Knockback": 25,
-    "Backstab": 3,
-    "Velocity": "60 m/s",
-    "SpreadMin": "0°",
-    "SpreadMax": "20°",
-    "Crafting": {
-      "Materials": ["Flametal x4", "Yggdrasil Shoot x6"],
-      "Station": "Forge lvl 5"
-    },
-    "Rarity": "Legendary",
-    "Price": 42000
-  },
-  {
-    "Name": "Arbalest",
-    "Icon": "",
-    "ReloadSpeed": "3.5s",
-    "Stamina": "1/s",
-    "Damage": {
-      "Pierce": "200/209"
-    },
-    "Knockback": 210,
-    "Backstab": 3,
-    "Velocity": "200 m/s",
-    "SpreadMin": "0°",
-    "HitNoise": "8 m",
-    "Crafting": {
-      "Materials": ["Iron Ingot x6", "Wood x20"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Rare",
-    "Price": 24000
-  },
-  {
-    "Name": "Ripper",
-    "Icon": "",
-    "ReloadSpeed": "3.5s",
-    "Stamina": "1/s",
-    "Damage": {
-      "Pierce": "220/229"
-    },
-    "Knockback": 210,
-    "Backstab": 3,
-    "Velocity": "200 m/s",
-    "SpreadMin": "0°",
-    "HitNoise": "8 m",
-    "Crafting": {
-      "Materials": ["Steel Ingot x4", "Fine Wood x10"],
-      "Station": "Forge lvl 3"
-    },
-    "Rarity": "Very Rare",
-    "Price": 38000
-  },
-  {
-    "Name": "Staff of Embers",
-    "Icon": "",
-    "Damage": {
-      "Blunt": "120",
-      "Fire": "120/138"
-    },
-    "Stamina": 35,
-    "Durability": "48‑72",
-    "Knockback": 20,
-    "Backstab": "2x",
-    "TradeOff": "-5%",
-    "Crafting": {
-      "Materials": ["Flametal x5", "Fire Orb x2"],
-      "Station": "Forge lvl 4"
-    },
-    "Rarity": "Legendary",
-    "Price": 50000
-  },
-  {
-    "Name": "Staff of Frost",
-    "Icon": "",
-    "Damage": {
-      "Frost": "30/36"
-    },
-    "Stamina": 5,
-    "Durability": "48‑72",
-    "Knockback": 20,
-    "Backstab": "2x",
-    "TradeOff": "-5%",
-    "Crafting": {
-      "Materials": ["Silver Ingot x3", "Ice Crystal x2"],
-      "Station": "Forge lvl‑3"
-    },
-    "Rarity": "Rare",
-    "Price": 25000
-  },
-  {
-    "Name": "Dundr",
-    "Icon": "",
-    "Damage": {
-      "Lightning": "12x20/12x26"
-    },
-    "Stamina": 25,
-    "Durability": "48‑72",
-    "Knockback": 20,
-    "Backstab": "2x",
-    "TradeOff": "-5%",
-    "Crafting": {
-      "Materials": ["Yggdrasil Shoot x8", "Lightning Core x2"],
-      "Station": "Forge lvl 5"
-    },
-    "Rarity": "Legendary",
-    "Price": 52000
-  },
-  {
-    "Name": "Staff of the Wild",
-    "Icon": "",
-    "Damage": {
-      "Blunt": "20/60",
-      "Poison": "20/60"
-    },
-    "Stamina": 55,
-    "Durability": "48‑72",
-    "Knockback": 20,
-    "Backstab": "2x",
-    "TradeOff": "-5%",
-    "Crafting": {
-      "Materials": ["Carapace x10", "Poison Gland x3"],
-      "Station": "Forge lvl 4"
-    },
-    "Rarity": "Very Rare",
-    "Price": 40000
-  },
-  {
-    "Name": "Staff of Fracturing",
-    "Icon": "",
-    "Damage": {
-      "Blunt": "12x12",
-      "Fire": "12x12/12x24"
-    },
-    "Stamina": 30,
-    "Durability": "48‑72",
-    "Knockback": 20,
-    "Backstab": "2x",
-    "TradeOff": "-5%",
-    "Crafting": {
-      "Materials": ["Flametal x3", "Fire Core x1"],
-      "Station": "Forge lvl 4"
-    },
-    "Rarity": "Rare",
-    "Price": 30000
-  },
-  {
-    "Name": "Staff of Protection",
-    "Icon": "",
-    "TotalDamage": 60,
-    "DamageType": "Support/Shield",
-    "Cooldown": "1/4 minute",
-    "Stamina": 40,
-    "Durability": 200,
-    "Source": "Spell",
-    "Crafting": {
-      "Materials": ["Yggdrasil Shoot x4", "Spirit Shard x2"],
-      "Station": "Magic Altar lvl 1"
-    },
-    "Rarity": "Very Rare",
-    "Price": 45000
-  },
-  {
-    "Name": "Dead Raiser",
-    "Icon": "",
-    "TotalDamage": 100,
-    "DamageType": "Summon",
-    "Effect": "Summon: 50 slash/40 pierce",
-    "Stamina": 40,
-    "Durability": 400,
-    "Source": "Spell",
-    "Crafting": {
-      "Materials": ["Shadow Core x1", "Bone Fragments x30"],
-      "Station": "Magic Altar lvl 1"
-    },
-    "Rarity": "Legendary",
-    "Price": 55000
-  },
-  {
-    "Name": "Trollstav",
-    "Icon": "",
-    "TotalDamage": 120,
-    "DamageType": "Summon/Fire",
-    "Effect": "On cast: 300 fire, 50 pure",
-    "Stamina": 60,
-    "Durability": 2000,
-    "Source": "Spell",
-    "Crafting": {
-      "Materials": ["Bloodstone x5", "Yggdrasil Shoot x10"],
-      "Station": "Magic Altar lvl 2"
-    },
-    "Rarity": "Mythic",
-    "Price": 60000
-  },
-  {
-    "Name": "Wood Arrow",
-    "Icon": "",
-    "TotalDamage": 22,
-    "DamageType": "Pierce:22",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Feather x1"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 50
-  },
-  {
-    "Name": "Flinthead Arrow",
-    "Icon": "",
-    "TotalDamage": 27,
-    "DamageType": "Pierce:27",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Flint x1", "Feather x1"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 75
-  },
-  {
-    "Name": "Bronzehead Arrow",
-    "Icon": "",
-    "TotalDamage": 32,
-    "DamageType": "Pierce:32",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Bronze Ingot x1", "Feather x1"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Uncommon",
-    "Price": 120
-  },
-  {
-    "Name": "Fire Arrow",
-    "Icon": "",
-    "TotalDamage": 33,
-    "DamageType": "Pierce:11, Fire:22",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Feather x1", "Resin x2", "Coal x1"],
-      "Station": "Forge lvl 1"
-    },
-    "Rarity": "Uncommon",
-    "Price": 140
-  },
-  {
-    "Name": "Ironhead Arrow",
-    "Icon": "",
-    "TotalDamage": 42,
-    "DamageType": "Pierce:42",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Iron Ingot x1", "Feather x1"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Uncommon",
-    "Price": 200
-  },
-  {
-    "Name": "Poison Arrow",
-    "Icon": "",
-    "TotalDamage": 78,
-    "DamageType": "Pierce:26, Poison:52",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Feather x1", "Poison Gland x1"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Rare",
-    "Price": 300
-  },
-  {
-    "Name": "Obsidian Arrow",
-    "Icon": "",
-    "TotalDamage": 52,
-    "DamageType": "Pierce:52",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Obsidian x1", "Feather x1"],
-      "Station": "Forge lvl 3"
-    },
-    "Rarity": "Rare",
-    "Price": 260
-  },
-  {
-    "Name": "Frost Arrow",
-    "Icon": "",
-    "TotalDamage": 78,
-    "DamageType": "Pierce:26, Frost:52",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Feather x1", "Ice Crystal x1"],
-      "Station": "Forge lvl 3"
-    },
-    "Rarity": "Rare",
-    "Price": 300
-  },
-  {
-    "Name": "Silver Arrow",
-    "Icon": "",
-    "TotalDamage": 72,
-    "DamageType": "Pierce:52, Spirit:20",
-    "Knockback": 10,
-    "Crafting": {
-      "Materials": ["Wood x1", "Silver Ingot x1", "Feather x1"],
-      "Station": "Forge lvl 3"
-    },
-    "Rarity": "Rare",
-    "Price": 320
-  },
-  {
-    "Name": "Needle Arrow",
-    "Icon": "",
-    "TotalDamage": 62,
-    "DamageType": "Pierce:62",
-    "Knockback": 15,
-    "Crafting": {
-      "Materials": ["Wood x1", "Needle x1", "Feather x1"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Uncommon",
-    "Price": 180
-  },
-  {
-    "Name": "Carapace Arrow",
-    "Icon": "",
-    "TotalDamage": 72,
-    "DamageType": "Pierce:72",
-    "Knockback": 15,
-    "Crafting": {
-      "Materials": ["Wood x1", "Carapace x1", "Feather x1"],
-      "Station": "Forge lvl 3"
-    },
-    "Rarity": "Very Rare",
-    "Price": 500
-  },
-  {
-    "Name": "Charred Arrow",
-    "Icon": "",
-    "TotalDamage": 82,
-    "DamageType": "Pierce:82",
-    "Knockback": 15,
-    "Crafting": {
-      "Materials": ["Wood x1", "Charcoal x1", "Feather x1"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Rare",
-    "Price": 450
-  },
-  {
-    "Name": "Bone Bolt",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "32"
-    },
-    "Knockback": 0,
-    "Crafting": {
-      "Materials": ["Bone Fragments x1", "Wood x1"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 150
-  },
-  {
-    "Name": "Iron Bolt",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "42"
-    },
-    "Knockback": 0,
-    "Crafting": {
-      "Materials": ["Iron Ingot x1", "Wood x1"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Uncommon",
-    "Price": 250
-  },
-  {
-    "Name": "Black Metal Bolt",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "62"
-    },
-    "Knockback": 0,
-    "Crafting": {
-      "Materials": ["Black Metal Ingot x1", "Wood x1"],
-      "Station": "Forge lvl 4"
-    },
-    "Rarity": "Very Rare",
-    "Price": 400
-  },
-  {
-    "Name": "Carapace Bolt",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "72"
-    },
-    "Knockback": 0,
-    "Crafting": {
-      "Materials": ["Carapace x1", "Wood x1"],
-      "Station": "Forge lvl 3"
-    },
-    "Rarity": "Very Rare",
-    "Price": 380
-  },
-  {
-    "Name": "Charred Bolt",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "82"
-    },
-    "Knockback": 0,
-    "Crafting": {
-      "Materials": ["Charcoal x1", "Wood x1"],
-      "Station": "Forge lvl 2"
-    },
-    "Rarity": "Rare",
-    "Price": 300
-  },
-  {
-    "Name": "Wooden Missile",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "75"
-    },
-    "Knockback": 45,
-    "ID": "TurretBoltWood",
-    "Crafting": {
-      "Materials": ["Wood x2"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 120
-  },
-  {
-    "Name": "Black Metal Missile",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "120"
-    },
-    "Knockback": 60,
-    "ID": "TurretBolt",
-    "Crafting": {
-      "Materials": ["Black Metal Ingot x1", "Wood x2"],
-      "Station": "Forge lvl 4"
-    },
-    "Rarity": "Very Rare",
-    "Price": 300
-  },
-  {
-    "Name": "Flametal Missile",
-    "Icon": "",
-    "Damage": {
-      "Pierce": "140"
-    },
-    "Knockback": 60,
-    "ID": "TurretBoltFlametal",
-    "Crafting": {
-      "Materials": ["Flametal x2", "Wood x2"],
-      "Station": "Forge lvl 4"
-    },
-    "Rarity": "Legendary",
-    "Price": 400
-  },
-  {
-    "Name": "Ooze Bomb",
-    "Icon": "",
-    "Damage": {
-      "Blunt": "5",
-      "Poison": "40"
-    },
-    "AoE": {
-      "Radius": "4 m",
-      "Duration": "10 s"
-    },
-    "Knockback": 3,
-    "Notes": "Backstab x3 x40",
-    "Crafting": {
-      "Materials": ["Corked Vial x1", "Resin x3", "Blob Trophy x1"],
-      "Station": "Alchemy Table lvl 1"
-    },
-    "Rarity": "Uncommon",
-    "Price": 250
-  },
-  {
-    "Name": "Bile Bomb",
-    "Icon": "",
-    "Damage": {
-      "Blunt": "5",
-      "Fire": "15",
-      "Poison": "30"
-    },
-    "AoE": {
-      "Radius": "4 m",
-      "Duration": "10 s"
-    },
-    "Knockback": 3,
-    "Notes": "Backstab x3 x40",
-    "Crafting": {
-      "Materials": ["Corked Vial x1", "Resin x3", "Oozer Trophy x1"],
-      "Station": "Alchemy Table lvl 1"
-    },
-    "Rarity": "Rare",
-    "Price": 400
-  },
-  {
-    "Name": "Smoke Bomb",
-    "Icon": "",
-    "Damage": {
-      "Blunt": "5",
-      "Smoked": "2/s"
-    },
-    "AoE": {
-      "Radius": "3 m",
-      "Duration": "10 s"
-    },
-    "Knockback": 3,
-    "Notes": "Backstab x3 x40",
-    "Crafting": {
-      "Materials": ["Corked Vial x1", "Resin x3", "Growth Trophy x1"],
-      "Station": "Alchemy Table lvl 1"
-    },
-    "Rarity": "Uncommon",
-    "Price": 300
-  },
-  {
-    "Name": "Wooden Sword (item entry)",
-    "Icon": "",
-    "Class": "Swords",
-    "Stamina": 4,
-    "Durability": 200,
-    "Source": "Crafted at Workbench for 5 Wood, 3 Finewood and 2 Corewood.",
-    "ID": "SwordWood",
-    "Crafting": {
-      "Materials": ["Wood x5", "Fine Wood x3", "Core Wood x2"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 1500
-  },
-  {
-    "Name": "Wooden Axe",
-    "Icon": "",
-    "Class": "Axes",
-    "Stamina": 4,
-    "Durability": 125,
-    "Source": "Found in chest buried in Viking Graveyard.",
-    "ID": "AxeWood",
-    "Crafting": {
-      "Materials": ["Wood x5"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 1200
-  },
-  {
-    "Name": "Wooden Knife",
-    "Icon": "",
-    "Class": "Knives",
-    "Stamina": 4,
-    "Durability": 200,
-    "Source": "Found in chest buried in Viking Graveyard.",
-    "ID": "KnifeWood",
-    "Crafting": {
-      "Materials": ["Wood x3"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 1000
-  },
-  {
-    "Name": "Wooden Mace",
-    "Icon": "",
-    "Class": "Clubs",
-    "Stamina": 8,
-    "Durability": 200,
-    "Source": "Found in chest in Combat Ruin and in Draugr Village Great Halls.",
-    "ID": "MaceWood",
-    "Crafting": {
-      "Materials": ["Wood x4", "Stone x2"],
-      "Station": "Workbench lvl 1"
-    },
-    "Rarity": "Common",
-    "Price": 1300
-  },
-  {
-    "Name": "Wooden Spear",
-    "Icon": "",
-    "Class": "Spears",
-    "Stamina": 4,
-    "Durability": 100,
-    "Source": "Found in chest in Abandoned Outpost and in Abandoned Hut.",
-      "ID": "SpearWood",
-      "Crafting": {
-        "Materials": ["Wood x3"],
-        "Station": "Workbench lvl 1"
-      },
-      "Rarity": "Common",
-      "Price": 1500
   },
   {
     "Name": "Wooden Sledge",
     "Icon": "",
-    "Class": "Sledge hammers",
+    "Class": "Sledge hammers",
     "Stamina": 8,
     "Durability": 100,
     "Source": "Found in chest in Swamp Runestone Tower and in Swamp Graves.",
@@ -1820,28 +1165,533 @@
     "Class": "Polearms",
     "Stamina": 8,
     "Durability": 175,
-    "Source": "Found in Plains chest.",
+    "Source": "Found in Meadows chest.",
     "ID": "AtgeirWood",
     "Crafting": {
-      "Materials": ["Wood x8"],
+      "Materials": ["Wood x6"],
       "Station": "Workbench lvl 1"
     },
     "Rarity": "Common",
-    "Price": 2300
+    "Price": 1800
   },
   {
-    "Name": "Wooden Greatsword",
+    "Name": "Abyssal Harpoon",
     "Icon": "",
-    "Class": "Two‑handed Swords",
-    "Stamina": 8,
-    "Durability": 200,
-    "Source": "Found in Infested Mine Treasure chest.",
-    "ID": "THSwordWood",
+    "Class": "Spear",
+    "Stamina": 10,
+    "Durability": 50,
+    "Source": "Crafted from Abyssal Harpoon pieces.",
+    "ID": "SpearAbyssal",
     "Crafting": {
-      "Materials": ["Wood x8", "Fine Wood x4"],
-      "Station": "Workbench lvl 1"
+      "Materials": ["Chitin x10", "Fine Wood x15", "Leather Scraps x2"],
+      "Station": "Workbench lvl 2"
+    },
+    "Rarity": "Rare",
+    "Price": 24000
+  },
+  {
+    "Name": "Ancient Bone Spear",
+    "Icon": "",
+    "Class": "Spear",
+    "Stamina": 12,
+    "Durability": 150,
+    "Source": "Found in Swamp Graves.",
+    "ID": "SpearBone",
+    "Crafting": {
+      "Materials": ["Bone Fragments x10", "Iron Ingot x1"],
+      "Station": "Forge lvl 2"
+    },
+    "Rarity": "Uncommon",
+    "Price": 10000
+  },
+  {
+    "Name": "Axe of the Forest",
+    "Icon": "",
+    "Class": "Axe",
+    "Stamina": 12,
+    "Durability": 250,
+    "Source": "Found in Crypt chest in Swamp.",
+    "ID": "AxeForest",
+    "Crafting": {
+      "Materials": ["Iron Ingot x5", "Ancient Bark x5"],
+      "Station": "Forge lvl 2"
+    },
+    "Rarity": "Rare",
+    "Price": 20000
+  },
+  {
+    "Name": "Bowsprit",
+    "Icon": "",
+    "Class": "Axe",
+    "Stamina": 14,
+    "Durability": 300,
+    "Source": "Found in Plains Fuling camp chest.",
+    "ID": "AxeFuling",
+    "Crafting": {
+      "Materials": ["Black Metal Ingot x2", "Lox Pelt x1"],
+      "Station": "Forge lvl 4"
+    },
+    "Rarity": "Very Rare",
+    "Price": 40000
+  },
+  {
+    "Name": "Bronze Pickaxe",
+    "Icon": "",
+    "Class": "Pickaxe",
+    "Stamina": 10,
+    "Durability": 100,
+    "Source": "Crafted after defeating Eikthyr.",
+    "ID": "PickaxeBronze",
+    "Crafting": {
+      "Materials": ["Wood x3", "Bronze Ingot x3"],
+      "Station": "Forge lvl\u202f1"
+    },
+    "Rarity": "Uncommon",
+    "Price": 9000
+  },
+  {
+    "Name": "Iron Pickaxe",
+    "Icon": "",
+    "Class": "Pickaxe",
+    "Stamina": 12,
+    "Durability": 150,
+    "Source": "Crafted after defeating The Elder.",
+    "ID": "PickaxeIron",
+    "Crafting": {
+      "Materials": ["Wood x4", "Iron Ingot x3"],
+      "Station": "Forge lvl\u202f2"
+    },
+    "Rarity": "Rare",
+    "Price": 18000
+  },
+  {
+    "Name": "Black Metal Pickaxe",
+    "Icon": "",
+    "Class": "Pickaxe",
+    "Stamina": 14,
+    "Durability": 200,
+    "Source": "Crafted after defeating Moder.",
+    "ID": "PickaxeBlackMetal",
+    "Crafting": {
+      "Materials": ["Wood x5", "Black Metal Ingot x3"],
+      "Station": "Forge lvl\u202f4"
+    },
+    "Rarity": "Very Rare",
+    "Price": 30000
+  },
+  {
+    "Name": "Stone Pickaxe",
+    "Icon": "",
+    "Class": "Pickaxe",
+    "Stamina": 10,
+    "Durability": 75,
+    "Source": "Crafted after defeating Eikthyr.",
+    "ID": "PickaxeStone",
+    "Crafting": {
+      "Materials": ["Wood x3", "Stone x3"],
+      "Station": "Workbench lvl\u202f1"
     },
     "Rarity": "Common",
     "Price": 2500
+  },
+  {
+    "Name": "Bone Shield",
+    "Icon": "",
+    "Class": "Shield",
+    "Stamina": 8,
+    "Durability": 100,
+    "Source": "Found in Swamp Graves.",
+    "ID": "ShieldBone",
+    "Crafting": {
+      "Materials": ["Bone Fragments x10", "Leather Scraps x2"],
+      "Station": "Workbench lvl\u202f2"
+    },
+    "Rarity": "Uncommon",
+    "Price": 5000
+  },
+  {
+    "Name": "Bronze Helmet",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 8,
+    "Durability": 200,
+    "Source": "Crafted from Bronze.",
+    "ID": "HelmetBronze",
+    "Crafting": {
+      "Materials": ["Bronze Ingot x5", "Deer Hide x2"],
+      "Station": "Forge lvl\u202f1"
+    },
+    "Rarity": "Uncommon",
+    "Price": 10000
+  },
+  {
+    "Name": "Leather Helmet",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 5,
+    "Durability": 150,
+    "Source": "Crafted from Deer Hide.",
+    "ID": "HelmetLeather",
+    "Crafting": {
+      "Materials": ["Deer Hide x4", "Leather Scraps x2"],
+      "Station": "Workbench lvl\u202f1"
+    },
+    "Rarity": "Common",
+    "Price": 4000
+  },
+  {
+    "Name": "Iron Helmet",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 14,
+    "Durability": 250,
+    "Source": "Crafted from Iron.",
+    "ID": "HelmetIron",
+    "Crafting": {
+      "Materials": ["Iron Ingot x5", "Deer Hide x2"],
+      "Station": "Forge lvl\u202f2"
+    },
+    "Rarity": "Rare",
+    "Price": 25000
+  },
+  {
+    "Name": "Silver Helmet",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 20,
+    "Durability": 300,
+    "Source": "Crafted from Silver.",
+    "ID": "HelmetSilver",
+    "Crafting": {
+      "Materials": ["Silver Ingot x5", "Wolf Pelt x2"],
+      "Station": "Forge lvl\u202f3"
+    },
+    "Rarity": "Very Rare",
+    "Price": 40000
+  },
+  {
+    "Name": "Padded Helmet",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 28,
+    "Durability": 350,
+    "Source": "Crafted from Linen.",
+    "ID": "HelmetPadded",
+    "Crafting": {
+      "Materials": ["Linen Thread x10", "Iron Ingot x5"],
+      "Station": "Forge lvl\u202f4"
+    },
+    "Rarity": "Legendary",
+    "Price": 60000
+  },
+  {
+    "Name": "Root Helmet",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 10,
+    "Durability": 200,
+    "Source": "Crafted from Roots.",
+    "ID": "HelmetRoot",
+    "Crafting": {
+      "Materials": ["Ancient Bark x5", "Root x2"],
+      "Station": "Workbench lvl\u202f2"
+    },
+    "Rarity": "Rare",
+    "Price": 15000
+  },
+  {
+    "Name": "Fenris Hood",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 10,
+    "Durability": 200,
+    "Source": "Crafted from Fenris Hair.",
+    "ID": "HelmetFenris",
+    "Crafting": {
+      "Materials": ["Wolf Pelt x2", "Fenris Hair x5"],
+      "Station": "Artisan Table"
+    },
+    "Rarity": "Very Rare",
+    "Price": 30000
+  },
+  {
+    "Name": "Eitr-Weave Hood",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 15,
+    "Durability": 250,
+    "Source": "Crafted from Eitr-Weave.",
+    "ID": "HelmetEitr",
+    "Crafting": {
+      "Materials": ["Eitr-Weave x10", "Linen Thread x5"],
+      "Station": "Black Forge lvl\u202f1"
+    },
+    "Rarity": "Legendary",
+    "Price": 75000
+  },
+  {
+    "Name": "Mage Hat",
+    "Icon": "",
+    "Class": "Armor",
+    "Armor": 20,
+    "Durability": 300,
+    "Source": "Crafted from Eitr-Weave.",
+    "ID": "HelmetMage",
+    "Crafting": {
+      "Materials": ["Eitr-Weave x15", "Iron Ingot x3"],
+      "Station": "Black Forge lvl\u202f2"
+    },
+    "Rarity": "Legendary",
+    "Price": 80000
+  },
+  {
+    "Name": "Linen Cape",
+    "Icon": "",
+    "Class": "Cape",
+    "Armor": 10,
+    "Durability": 200,
+    "Source": "Crafted from Linen.",
+    "ID": "CapeLinen",
+    "Crafting": {
+      "Materials": ["Linen Thread x20", "Silver Ingot x1"],
+      "Station": "Workbench lvl\u202f3"
+    },
+    "Rarity": "Rare",
+    "Price": 20000
+  },
+  {
+    "Name": "Lox Cape",
+    "Icon": "",
+    "Class": "Cape",
+    "Armor": 8,
+    "Durability": 150,
+    "Source": "Crafted from Lox Pelt.",
+    "ID": "CapeLox",
+    "Crafting": {
+      "Materials": ["Lox Pelt x5", "Silver Ingot x2"],
+      "Station": "Workbench lvl\u202f3"
+    },
+    "Rarity": "Very Rare",
+    "Price": 30000
+  },
+  {
+    "Name": "Feather Cape",
+    "Icon": "",
+    "Class": "Cape",
+    "Armor": 12,
+    "Durability": 250,
+    "Source": "Crafted from Feathers.",
+    "ID": "CapeFeather",
+    "Crafting": {
+      "Materials": ["Feather x50", "Linen Thread x10"],
+      "Station": "Artisan Table"
+    },
+    "Rarity": "Legendary",
+    "Price": 50000
+  },
+  {
+    "Name": "Carapace Cape",
+    "Icon": "",
+    "Class": "Cape",
+    "Armor": 14,
+    "Durability": 300,
+    "Source": "Crafted from Carapace.",
+    "ID": "CapeCarapace",
+    "Crafting": {
+      "Materials": ["Carapace x10", "Yggdrasil Shoot x5"],
+      "Station": "Black Forge lvl\u202f1"
+    },
+    "Rarity": "Very Rare",
+    "Price": 40000
+  },
+  {
+    "Name": "Bone Shield",
+    "Icon": "",
+    "BlockArmorMin": 22,
+    "BlockArmorMax": 34,
+    "BlockForceMin": 40,
+    "BlockForceMax": 50,
+    "ParryBonus": "1.5x",
+    "MovementSpeed": "-5%",
+    "Crafting": {
+      "Materials": ["Bone Fragments x10", "Leather Scraps x2"],
+      "Station": "Workbench lvl\u202f2"
+    },
+    "Rarity": "Uncommon",
+    "Price": 5000
+  },
+  {
+    "Name": "Silver Buckler",
+    "Icon": "",
+    "BlockArmorMin": 40,
+    "BlockArmorMax": 52,
+    "BlockForceMin": 40,
+    "ParryBonus": "2.5x",
+    "MovementSpeed": "-5%",
+    "Crafting": {
+      "Materials": ["Silver Ingot x1", "Fine Wood x5"],
+      "Station": "Forge lvl\u202f3"
+    },
+    "Rarity": "Rare",
+    "Price": 12000
+  },
+  {
+    "Name": "Draugr Fang",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "30/30",
+      "Poison": "10/10"
+    },
+    "StaminaPrimary": 10,
+    "StaminaSecondary": 20,
+    "Crafting": {
+      "Materials": ["Ancient Bark x10", "Gland x2", "Silver Ingot x2"],
+      "Station": "Forge lvl\u202f3"
+    },
+    "Rarity": "Very Rare",
+    "Price": 40000
+  },
+  {
+    "Name": "Huntsman Bow",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "30/30"
+    },
+    "StaminaPrimary": 10,
+    "StaminaSecondary": 20,
+    "Crafting": {
+      "Materials": ["Fine Wood x20", "Deer Hide x10"],
+      "Station": "Workbench lvl\u202f2"
+    },
+    "Rarity": "Uncommon",
+    "Price": 7500
+  },
+  {
+    "Name": "Spinesnap",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "50/50"
+    },
+    "StaminaPrimary": 14,
+    "StaminaSecondary": 28,
+    "Crafting": {
+      "Materials": ["Carapace x10", "Yggdrasil Shoot x5"],
+      "Station": "Black Forge lvl\u202f2"
+    },
+    "Rarity": "Legendary",
+    "Price": 84000
+  },
+  {
+    "Name": "Silver Arrow",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "42/50",
+      "Spirit": "10/10"
+    },
+    "Crafting": {
+      "Materials": ["Wood x8", "Feather x2", "Silver Ingot x1"],
+      "Station": "Workbench lvl\u202f3"
+    },
+    "Rarity": "Common",
+    "Price": 400
+  },
+  {
+    "Name": "Poison Arrow",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "26/34",
+      "Poison": "5/5"
+    },
+    "Crafting": {
+      "Materials": ["Wood x8", "Feather x2", "Ooze x1"],
+      "Station": "Workbench lvl\u202f2"
+    },
+    "Rarity": "Uncommon",
+    "Price": 400
+  },
+  {
+    "Name": "Black Metal Missile",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "62/70"
+    },
+    "Crafting": {
+      "Materials": ["Wood x8", "Feather x2", "Black Metal Ingot x1"],
+      "Station": "Forge lvl\u202f4"
+    },
+    "Rarity": "Rare",
+    "Price": 625
+  },
+  {
+    "Name": "Carapace Bolt",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "70/78"
+    },
+    "Crafting": {
+      "Materials": ["Wood x8", "Feather x2", "Carapace x1"],
+      "Station": "Forge lvl\u202f3"
+    },
+    "Rarity": "Rare",
+    "Price": 750
+  },
+  {
+    "Name": "Flametal Missile",
+    "Icon": "",
+    "Damage": {
+      "Pierce": "78/86"
+    },
+    "Crafting": {
+      "Materials": ["Wood x8", "Feather x2", "Flametal x1"],
+      "Station": "Forge lvl\u202f5"
+    },
+    "Rarity": "Very Rare",
+    "Price": 1000
+  },
+  {
+    "Name": "Dead Riser",
+    "Icon": "",
+    "Damage": {
+      "Spirit": "30",
+      "Blunt": "15/15"
+    },
+    "StaminaPrimary": 10,
+    "StaminaSecondary": 20,
+    "Crafting": {
+      "Materials": ["Bone Fragments x10", "Ancient Bark x5"],
+      "Station": "Workbench lvl\u202f2"
+    },
+    "Rarity": "Mythic",
+    "Price": 12000
+  },
+  {
+    "Name": "Staff of Protection",
+    "Icon": "",
+    "Damage": {
+      "Blunt": "10/10"
+    },
+    "StaminaPrimary": 10,
+    "StaminaSecondary": 20,
+    "Crafting": {
+      "Materials": ["Iron Ingot x3", "Silver Ingot x1"],
+      "Station": "Forge lvl\u202f3"
+    },
+    "Rarity": "Rare",
+    "Price": 16700
+  },
+  {
+    "Name": "Staff of Frost",
+    "Icon": "",
+    "Damage": {
+      "Frost": "20/20"
+    },
+    "StaminaPrimary": 10,
+    "StaminaSecondary": 20,
+    "Crafting": {
+      "Materials": ["Silver Ingot x5", "Freeze Gland x2"],
+      "Station": "Forge lvl\u202f3"
+    },
+    "Rarity": "Very Rare",
+    "Price": 32000
   }
 ]
