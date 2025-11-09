@@ -4,6 +4,7 @@ import { Search, Filter, Coins, ChevronDown, ChevronUp } from 'lucide-react';
 import armourJson from '../data/armour.json';
 import foodJson from '../data/food.json';
 import weaponsJson from '../data/weapons.json';
+import potionsJson from '../data/potions.json';
 
 
 // TypeScript interfaces
@@ -28,6 +29,7 @@ interface FoodItem {
     TotalStats: number;
     BiomeProgression: number;
     PriceCoins: number;
+    set: number;
     Note?: string;
     category?: string;
 }
@@ -44,7 +46,15 @@ interface WeaponItem {
     category?: string;
 }
 
-type MarketItem = (ArmorItem | FoodItem | WeaponItem) & {
+interface PotionItem {
+    Name: string;
+    PriceCoins: number;
+    set: number;
+    Note?: string;
+    category?: string;
+}
+
+type MarketItem = (ArmorItem | FoodItem | WeaponItem | PotionItem) & {
     category: string;
     Rarity?: string;
     InferredTier?: number;
@@ -69,7 +79,7 @@ const ValheimMarketplace: React.FC = () => {
     const armorData: ArmorItem[] = (armourJson as unknown) as ArmorItem[];
     const foodData: FoodItem[] = (foodJson as unknown) as FoodItem[];
     const weaponsData: WeaponItem[] = (weaponsJson as unknown) as WeaponItem[];
-
+    const potionsData: PotionItem[] = (potionsJson as unknown) as PotionItem[];
 
     const allItems = useMemo<MarketItem[]>(() => {
         const items: MarketItem[] = [];
@@ -77,7 +87,7 @@ const ValheimMarketplace: React.FC = () => {
         armorData.forEach(item => items.push({ ...item, category: 'Armor' }));
         foodData.forEach(item => items.push({ ...item, category: 'Food' }));
         weaponsData.forEach(item => items.push({ ...item, category: 'Weapons' }));
-
+        potionsData.forEach(item => items.push({ ...item, category: 'Potions' }));
         return items;
     }, []);
 
@@ -96,7 +106,7 @@ const ValheimMarketplace: React.FC = () => {
                 .map(item => item.InferredTier)
                 .filter((tier): tier is number => typeof tier === 'number')
         );
-        return ['All', ...Array.from(uniqueTiers).sort((a, b) => (a as number) - (b as number))];
+        return ['All', ...Array.from(uniqueTiers).sort((a, b) => a - b)];
     }, [allItems]);
 
     const getItemPrice = (item: MarketItem): number => {
@@ -165,6 +175,8 @@ const ValheimMarketplace: React.FC = () => {
     const renderItemCard = (item: MarketItem) => {
         const isExpanded = expandedItems[item.Name];
         const hasQualityPricing = 'PriceCoins_Q1' in item;
+        const isPotion = item.category === 'Potions';
+        const isFood = item.category === 'Food';
 
         return (
             <div key={item.Name} className="bg-gray-800 rounded-lg p-4 border-2 border-gray-700 hover:border-yellow-600 transition-all duration-200 hover:shadow-xl hover:shadow-yellow-600/20">
@@ -174,7 +186,10 @@ const ValheimMarketplace: React.FC = () => {
                             {item.Name}
                         </h3>
                         <div className="flex gap-2 mt-1 flex-wrap">
-                            <span className="text-xs bg-gray-700 px-2 py-1 rounded">{item.category}</span>
+                            <span className={`text-xs px-2 py-1 rounded ${isPotion ? 'bg-purple-900 text-purple-300' : 'bg-gray-700'
+                                }`}>
+                                {item.category}
+                            </span>
                             {item.InferredTier && (
                                 <span className={`text-xs px-2 py-1 rounded text-white ${getTierColor(item.InferredTier)}`}>
                                     Tier {item.InferredTier}
@@ -190,10 +205,16 @@ const ValheimMarketplace: React.FC = () => {
                                     Biome {item.BiomeProgression}
                                 </span>
                             )}
+                            {isPotion || isFood && 'set' in item && (
+                                <span className="text-xs bg-indigo-900 text-indigo-300 px-2 py-1 rounded">
+                                    Set {item.set}
+                                </span>
+                            )}
                         </div>
                     </div>
                 </div>
 
+                {/* Stats Display */}
                 <div className="grid grid-cols-2 gap-2 text-sm mb-3">
                     {'Health' in item && <div className="text-red-400">❤️ Health: {item.Health}</div>}
                     {'Stamina' in item && <div className="text-green-400">⚡ Stamina: {item.Stamina}</div>}
@@ -207,6 +228,16 @@ const ValheimMarketplace: React.FC = () => {
                     )}
                 </div>
 
+                {/* Potion Type Indicator */}
+                {isPotion && (
+                    <div className="mb-3 text-sm">
+                        <div className="bg-purple-900/30 border border-purple-700 rounded p-2">
+                            <span className="text-purple-300">🧪 Consumable Potion/Mead</span>
+                        </div>
+                    </div>
+                )}
+
+                {/* Price Display */}
                 <div className="border-t border-gray-700 pt-3">
                     {hasQualityPricing && 'PriceCoins_Q1' in item ? (
                         <div>
@@ -317,6 +348,7 @@ const ValheimMarketplace: React.FC = () => {
                                 <option>Armor</option>
                                 <option>Food</option>
                                 <option>Weapons</option>
+                                <option>Potions</option>
                             </select>
                         </div>
 

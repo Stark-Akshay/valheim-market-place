@@ -1,0 +1,108 @@
+[
+  {
+    "Name": "Minor healing mead",
+    "PriceCoins": 150,
+    "set": 3
+  },
+  {
+    "Name": "Minor stamina mead",
+    "PriceCoins": 100,
+    "set": 3
+  },
+  {
+    "Name": "Tasty mead",
+    "PriceCoins": 300,
+    "set": 3
+  },
+  {
+    "Name": "Frost resistance mead",
+    "PriceCoins": 500,
+    "set": 3
+  },
+  {
+    "Name": "Poison resistance mead",
+    "PriceCoins": 500,
+    "set": 3
+  },
+  {
+    "Name": "Medium healing mead",
+    "PriceCoins": 400,
+    "set": 3
+  },
+  {
+    "Name": "Berserkir mead",
+    "PriceCoins": 2000,
+    "set": 3
+  },
+  {
+    "Name": "Fire resistance barley wine",
+    "PriceCoins": 1000,
+    "set": 3
+  },
+  {
+    "Name": "Medium stamina mead",
+    "PriceCoins": 500,
+    "set": 3
+  },
+  {
+    "Name": "Major healing mead",
+    "PriceCoins": 1500,
+    "set": 3
+  },
+  {
+    "Name": "Lingering healing mead",
+    "PriceCoins": 2500,
+    "set": 3
+  },
+  {
+    "Name": "Lingering stamina mead",
+    "PriceCoins": 2500,
+    "set": 3
+  },
+  {
+    "Name": "Minor eitr mead",
+    "PriceCoins": 1000,
+    "set": 3
+  },
+  {
+    "Name": "Lingering eitr mead",
+    "PriceCoins": 2500,
+    "set": 3
+  },
+  {
+    "Name": "Anti-sting concoction",
+    "PriceCoins": 5000,
+    "set": 3
+  },
+  {
+    "Name": "Draught of Vananidir",
+    "PriceCoins": 3000,
+    "set": 3
+  },
+  {
+    "Name": "Tonic of Ratatosk",
+    "PriceCoins": 3000,
+    "set": 3
+  },
+  {
+    "Name": "Mead of Troll endurance",
+    "PriceCoins": 3000,
+    "set": 3
+  },
+  {
+    "Name": "Brew of animal whispers",
+    "PriceCoins": 3000,
+    "set": 3
+  },
+  {
+    "Name": "Lightfoot mead",
+    "PriceCoins": 3000,
+    "set": 3
+  },
+  {
+    "Name": "Love potion",
+    "PriceCoins": 20,
+    "set": 3,
+    "Note": "Fixed price of 100 coins for 5 bottles, based on trader cost."
+  }
+]
