@@ -75,6 +75,10 @@ const ValheimMarketplace: React.FC = () => {
     const [expandedItems, setExpandedItems] = useState<Record<string, boolean>>({});
     const [sortBy, setSortBy] = useState<string>('name');
 
+    // Deterministic number formatter to avoid SSR/CSR hydration mismatches
+    const numberFormatter = useMemo(() => new Intl.NumberFormat('en-US'), []);
+    const formatCoins = (n?: number | null) => (n !== undefined && n !== null ? numberFormatter.format(n) : '0');
+
     // Mock data - replace with actual imports
     const armorData: ArmorItem[] = (armourJson as unknown) as ArmorItem[];
     const foodData: FoodItem[] = (foodJson as unknown) as FoodItem[];
@@ -256,29 +260,29 @@ const ValheimMarketplace: React.FC = () => {
                                 <div className="grid grid-cols-2 gap-2 text-sm">
                                     <div className="bg-gray-900 p-2 rounded">
                                         <span className="text-gray-400">Q1:</span>
-                                        <span className="text-yellow-500 font-bold ml-2">{item.PriceCoins_Q1.toLocaleString()}</span>
+                                        <span className="text-yellow-500 font-bold ml-2">{formatCoins(item.PriceCoins_Q1)}</span>
                                     </div>
                                     {item.PriceCoins_Q2 && (
                                         <div className="bg-gray-900 p-2 rounded">
                                             <span className="text-gray-400">Q2:</span>
-                                            <span className="text-yellow-500 font-bold ml-2">{item.PriceCoins_Q2.toLocaleString()}</span>
+                                            <span className="text-yellow-500 font-bold ml-2">{formatCoins(item.PriceCoins_Q2)}</span>
                                         </div>
                                     )}
                                     {item.PriceCoins_Q3 && (
                                         <div className="bg-gray-900 p-2 rounded">
                                             <span className="text-gray-400">Q3:</span>
-                                            <span className="text-yellow-500 font-bold ml-2">{item.PriceCoins_Q3.toLocaleString()}</span>
+                                            <span className="text-yellow-500 font-bold ml-2">{formatCoins(item.PriceCoins_Q3)}</span>
                                         </div>
                                     )}
                                     <div className="bg-gray-900 p-2 rounded">
                                         <span className="text-gray-400">Q4:</span>
-                                        <span className="text-yellow-500 font-bold ml-2">{item.PriceCoins_Q4.toLocaleString()}</span>
+                                        <span className="text-yellow-500 font-bold ml-2">{formatCoins(item.PriceCoins_Q4)}</span>
                                     </div>
                                 </div>
                             ) : (
                                 <div className="text-center bg-gray-900 p-2 rounded">
                                     <span className="text-yellow-500 font-bold text-lg">
-                                        {item.PriceCoins_Q1.toLocaleString()} - {item.PriceCoins_Q4.toLocaleString()}
+                                        {formatCoins(item.PriceCoins_Q1)} - {formatCoins(item.PriceCoins_Q4)}
                                     </span>
                                     <span className="text-gray-400 text-sm ml-2">coins</span>
                                 </div>
@@ -288,7 +292,7 @@ const ValheimMarketplace: React.FC = () => {
                         <div className="flex items-center justify-center gap-2 bg-gray-900 p-3 rounded">
                             <Coins className="text-yellow-500" size={20} />
                             <span className="text-yellow-500 font-bold text-xl">
-                                {getItemPrice(item).toLocaleString()}
+                                {formatCoins(getItemPrice(item))}
                             </span>
                             <span className="text-gray-400">coins</span>
                         </div>
@@ -312,7 +316,7 @@ const ValheimMarketplace: React.FC = () => {
                         ⚔️ Valheim Marketplace
                     </h1>
                     <p className="text-gray-400">
-                        Starting Balance: <span className="text-yellow-500 font-bold">100,000 coins</span>
+                        Starting Balance: <span className="text-yellow-500 font-bold">{formatCoins(10000)} coins</span>
                     </p>
                 </div>
             </div>
@@ -383,7 +387,7 @@ const ValheimMarketplace: React.FC = () => {
                         <div>
                             <label className="block text-sm font-medium mb-2 text-gray-300">
                                 <Coins className="inline mr-2" size={16} />
-                                Max Price: {priceRange.max.toLocaleString()} coins
+                                Max Price: {formatCoins(priceRange.max)} coins
                             </label>
                             <input
                                 type="range"

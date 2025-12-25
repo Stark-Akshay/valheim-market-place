@@ -6,7 +6,7 @@
     "Eitr": 0,
     "TotalStats": 27,
     "BiomeProgression": 1,
-    "PriceCoins": 27,
+    "PriceCoins": 270,
     "set": 10
   },
   {
@@ -16,7 +16,7 @@
     "Eitr": 0,
     "TotalStats": 30,
     "BiomeProgression": 1,
-    "PriceCoins": 30,
+    "PriceCoins": 300,
     "set": 10
   },
   {
@@ -26,7 +26,7 @@
     "Eitr": 0,
     "TotalStats": 33,
     "BiomeProgression": 1,
-    "PriceCoins": 33,
+    "PriceCoins": 330,
     "set": 10
   },
   {
@@ -36,7 +36,7 @@
     "Eitr": 0,
     "TotalStats": 40,
     "BiomeProgression": 1,
-    "PriceCoins": 40,
+    "PriceCoins": 400,
     "set": 10
   },
   {
@@ -46,7 +46,7 @@
     "Eitr": 0,
     "TotalStats": 43,
     "BiomeProgression": 1,
-    "PriceCoins": 43,
+    "PriceCoins": 430,
     "set": 10
   },
   {
@@ -56,7 +56,7 @@
     "Eitr": 0,
     "TotalStats": 47,
     "BiomeProgression": 1,
-    "PriceCoins": 47,
+    "PriceCoins": 470,
     "set": 10
   },
   {
@@ -66,7 +66,7 @@
     "Eitr": 0,
     "TotalStats": 0,
     "BiomeProgression": 2,
-    "PriceCoins": 5,
+    "PriceCoins": 50,
     "Note": "Nominal price for detrimental item.",
     "set": 10
   },
@@ -77,7 +77,7 @@
     "Eitr": 0,
     "TotalStats": 33,
     "BiomeProgression": 2,
-    "PriceCoins": 50,
+    "PriceCoins": 500,
     "set": 10
   },
   {
@@ -87,7 +87,7 @@
     "Eitr": 0,
     "TotalStats": 40,
     "BiomeProgression": 2,
-    "PriceCoins": 60,
+    "PriceCoins": 600,
     "set": 10
   },
   {
@@ -97,7 +97,7 @@
     "Eitr": 0,
     "TotalStats": 42,
     "BiomeProgression": 2,
-    "PriceCoins": 63,
+    "PriceCoins": 630,
     "set": 10
   },
   {
@@ -107,7 +107,7 @@
     "Eitr": 0,
     "TotalStats": 46,
     "BiomeProgression": 2,
-    "PriceCoins": 69,
+    "PriceCoins": 690,
     "set": 10
   },
   {
@@ -117,7 +117,7 @@
     "Eitr": 0,
     "TotalStats": 53,
     "BiomeProgression": 2,
-    "PriceCoins": 80,
+    "PriceCoins": 800,
     "set": 10
   },
   {
@@ -127,7 +127,7 @@
     "Eitr": 0,
     "TotalStats": 53,
     "BiomeProgression": 2,
-    "PriceCoins": 80,
+    "PriceCoins": 800,
     "set": 10
   },
   {
@@ -137,7 +137,7 @@
     "Eitr": 0,
     "TotalStats": 54,
     "BiomeProgression": 2,
-    "PriceCoins": 81,
+    "PriceCoins": 810,
     "set": 10
   },
   {
@@ -147,7 +147,7 @@
     "Eitr": 0,
     "TotalStats": 60,
     "BiomeProgression": 2,
-    "PriceCoins": 90,
+    "PriceCoins": 900,
     "set": 10
   },
   {
@@ -157,7 +157,7 @@
     "Eitr": 0,
     "TotalStats": 60,
     "BiomeProgression": 2,
-    "PriceCoins": 90,
+    "PriceCoins": 900,
     "set": 10
   },
   {
@@ -167,7 +167,7 @@
     "Eitr": 0,
     "TotalStats": 60,
     "BiomeProgression": 3,
-    "PriceCoins": 120,
+    "PriceCoins": 1200,
     "set": 10
   },
   {
@@ -177,7 +177,7 @@
     "Eitr": 0,
     "TotalStats": 66,
     "BiomeProgression": 3,
-    "PriceCoins": 132,
+    "PriceCoins": 1320,
     "set": 10
   },
   {
@@ -187,7 +187,7 @@
     "Eitr": 0,
     "TotalStats": 73,
     "BiomeProgression": 3,
-    "PriceCoins": 146,
+    "PriceCoins": 1460,
     "set": 10
   },
   {
@@ -197,7 +197,7 @@
     "Eitr": 0,
     "TotalStats": 73,
     "BiomeProgression": 3,
-    "PriceCoins": 146,
+    "PriceCoins": 1460,
     "set": 10
   },
   {
@@ -207,7 +207,7 @@
     "Eitr": 0,
     "TotalStats": 67,
     "BiomeProgression": 3,
-    "PriceCoins": 134,
+    "PriceCoins": 1340,
     "set": 10
   },
   {
@@ -217,7 +217,7 @@
     "Eitr": 0,
     "TotalStats": 70,
     "BiomeProgression": 3,
-    "PriceCoins": 420,
+    "PriceCoins": 4200,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   },
@@ -228,7 +228,7 @@
     "Eitr": 0,
     "TotalStats": 70,
     "BiomeProgression": 3,
-    "PriceCoins": 420,
+    "PriceCoins": 4200,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   },
@@ -239,7 +239,7 @@
     "Eitr": 0,
     "TotalStats": 70,
     "BiomeProgression": 3,
-    "PriceCoins": 420,
+    "PriceCoins": 4200,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   },
@@ -250,7 +250,7 @@
     "Eitr": 0,
     "TotalStats": 93,
     "BiomeProgression": 3,
-    "PriceCoins": 186,
+    "PriceCoins": 1860,
     "set": 10
   },
   {
@@ -260,7 +260,7 @@
     "Eitr": 0,
     "TotalStats": 106,
     "BiomeProgression": 3,
-    "PriceCoins": 212,
+    "PriceCoins": 2120,
     "set": 10
   },
   {
@@ -270,7 +270,7 @@
     "Eitr": 0,
     "TotalStats": 90,
     "BiomeProgression": 3,
-    "PriceCoins": 540,
+    "PriceCoins": 5400,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   },
@@ -281,7 +281,7 @@
     "Eitr": 0,
     "TotalStats": 53,
     "BiomeProgression": 4,
-    "PriceCoins": 159,
+    "PriceCoins": 1590,
     "set": 10
   },
   {
@@ -291,7 +291,7 @@
     "Eitr": 0,
     "TotalStats": 60,
     "BiomeProgression": 4,
-    "PriceCoins": 180,
+    "PriceCoins": 1800,
     "set": 10
   },
   {
@@ -301,7 +301,7 @@
     "Eitr": 0,
     "TotalStats": 66,
     "BiomeProgression": 4,
-    "PriceCoins": 198,
+    "PriceCoins": 1980,
     "set": 10
   },
   {
@@ -311,7 +311,7 @@
     "Eitr": 0,
     "TotalStats": 80,
     "BiomeProgression": 4,
-    "PriceCoins": 240,
+    "PriceCoins": 2400,
     "set": 10
   },
   {
@@ -321,7 +321,7 @@
     "Eitr": 0,
     "TotalStats": 86,
     "BiomeProgression": 4,
-    "PriceCoins": 258,
+    "PriceCoins": 2580,
     "set": 10
   },
   {
@@ -331,7 +331,7 @@
     "Eitr": 0,
     "TotalStats": 86,
     "BiomeProgression": 4,
-    "PriceCoins": 258,
+    "PriceCoins": 2580,
     "set": 10
   },
   {
@@ -341,7 +341,7 @@
     "Eitr": 0,
     "TotalStats": 90,
     "BiomeProgression": 4,
-    "PriceCoins": 810,
+    "PriceCoins": 8100,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   },
@@ -352,7 +352,7 @@
     "Eitr": 0,
     "TotalStats": 53,
     "BiomeProgression": 5,
-    "PriceCoins": 212,
+    "PriceCoins": 2120,
     "set": 10
   },
   {
@@ -362,7 +362,7 @@
     "Eitr": 0,
     "TotalStats": 66,
     "BiomeProgression": 5,
-    "PriceCoins": 264,
+    "PriceCoins": 2640,
     "set": 10
   },
   {
@@ -372,7 +372,7 @@
     "Eitr": 0,
     "TotalStats": 93,
     "BiomeProgression": 5,
-    "PriceCoins": 372,
+    "PriceCoins": 3720,
     "set": 10
   },
   {
@@ -382,7 +382,7 @@
     "Eitr": 0,
     "TotalStats": 99,
     "BiomeProgression": 5,
-    "PriceCoins": 396,
+    "PriceCoins": 3960,
     "set": 10
   },
   {
@@ -392,7 +392,7 @@
     "Eitr": 0,
     "TotalStats": 100,
     "BiomeProgression": 5,
-    "PriceCoins": 400,
+    "PriceCoins": 4000,
     "set": 10
   },
   {
@@ -402,7 +402,7 @@
     "Eitr": 0,
     "TotalStats": 93,
     "BiomeProgression": 5,
-    "PriceCoins": 372,
+    "PriceCoins": 3720,
     "set": 10
   },
   {
@@ -412,7 +412,7 @@
     "Eitr": 0,
     "TotalStats": 110,
     "BiomeProgression": 5,
-    "PriceCoins": 1320,
+    "PriceCoins": 13200,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   },
@@ -423,7 +423,7 @@
     "Eitr": 25,
     "TotalStats": 75,
     "BiomeProgression": 6,
-    "PriceCoins": 450,
+    "PriceCoins": 4500,
     "set": 10
   },
   {
@@ -433,7 +433,7 @@
     "Eitr": 0,
     "TotalStats": 50,
     "BiomeProgression": 6,
-    "PriceCoins": 300,
+    "PriceCoins": 3000,
     "set": 10
   },
   {
@@ -443,7 +443,7 @@
     "Eitr": 0,
     "TotalStats": 47,
     "BiomeProgression": 6,
-    "PriceCoins": 282,
+    "PriceCoins": 2820,
     "set": 10
   },
   {
@@ -453,7 +453,7 @@
     "Eitr": 0,
     "TotalStats": 80,
     "BiomeProgression": 6,
-    "PriceCoins": 480,
+    "PriceCoins": 4800,
     "set": 10
   },
   {
@@ -463,7 +463,7 @@
     "Eitr": 0,
     "TotalStats": 80,
     "BiomeProgression": 6,
-    "PriceCoins": 480,
+    "PriceCoins": 4800,
     "set": 10
   },
   {
@@ -473,7 +473,7 @@
     "Eitr": 0,
     "TotalStats": 80,
     "BiomeProgression": 6,
-    "PriceCoins": 480,
+    "PriceCoins": 4800,
     "set": 10
   },
   {
@@ -483,7 +483,7 @@
     "Eitr": 0,
     "TotalStats": 106,
     "BiomeProgression": 6,
-    "PriceCoins": 636,
+    "PriceCoins": 6360,
     "set": 10
   },
   {
@@ -493,7 +493,7 @@
     "Eitr": 0,
     "TotalStats": 106,
     "BiomeProgression": 6,
-    "PriceCoins": 636,
+    "PriceCoins": 6360,
     "set": 10
   },
   {
@@ -503,7 +503,7 @@
     "Eitr": 0,
     "TotalStats": 113,
     "BiomeProgression": 6,
-    "PriceCoins": 678,
+    "PriceCoins": 6780,
     "set": 10
   },
   {
@@ -513,7 +513,7 @@
     "Eitr": 0,
     "TotalStats": 106,
     "BiomeProgression": 6,
-    "PriceCoins": 636,
+    "PriceCoins": 6360,
     "set": 10
   },
   {
@@ -523,7 +523,7 @@
     "Eitr": 0,
     "TotalStats": 113,
     "BiomeProgression": 6,
-    "PriceCoins": 678,
+    "PriceCoins": 6780,
     "set": 10
   },
   {
@@ -533,7 +533,7 @@
     "Eitr": 0,
     "TotalStats": 120,
     "BiomeProgression": 6,
-    "PriceCoins": 720,
+    "PriceCoins": 7200,
     "set": 10
   },
   {
@@ -543,7 +543,7 @@
     "Eitr": 75,
     "TotalStats": 112,
     "BiomeProgression": 6,
-    "PriceCoins": 672,
+    "PriceCoins": 6720,
     "set": 10
   },
   {
@@ -553,7 +553,7 @@
     "Eitr": 80,
     "TotalStats": 120,
     "BiomeProgression": 6,
-    "PriceCoins": 720,
+    "PriceCoins": 7200,
     "set": 10
   },
   {
@@ -563,7 +563,7 @@
     "Eitr": 85,
     "TotalStats": 127,
     "BiomeProgression": 6,
-    "PriceCoins": 762,
+    "PriceCoins": 7620,
     "set": 10
   },
   {
@@ -573,7 +573,7 @@
     "Eitr": 33,
     "TotalStats": 163,
     "BiomeProgression": 6,
-    "PriceCoins": 2934,
+    "PriceCoins": 29340,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   },
@@ -584,7 +584,7 @@
     "Eitr": 0,
     "TotalStats": 0,
     "BiomeProgression": 7,
-    "PriceCoins": 1,
+    "PriceCoins": 10,
     "Note": "Nominal price for detrimental item.",
     "set": 10
   },
@@ -595,7 +595,7 @@
     "Eitr": 0,
     "TotalStats": 30,
     "BiomeProgression": 7,
-    "PriceCoins": 240,
+    "PriceCoins": 2400,
     "set": 10
   },
   {
@@ -605,7 +605,7 @@
     "Eitr": 0,
     "TotalStats": 60,
     "BiomeProgression": 7,
-    "PriceCoins": 480,
+    "PriceCoins": 4800,
     "set": 10
   },
   {
@@ -615,7 +615,7 @@
     "Eitr": 30,
     "TotalStats": 90,
     "BiomeProgression": 7,
-    "PriceCoins": 720,
+    "PriceCoins": 7200,
     "set": 10
   },
   {
@@ -625,7 +625,7 @@
     "Eitr": 0,
     "TotalStats": 94,
     "BiomeProgression": 7,
-    "PriceCoins": 752,
+    "PriceCoins": 7520,
     "set": 10
   },
   {
@@ -635,7 +635,7 @@
     "Eitr": 0,
     "TotalStats": 94,
     "BiomeProgression": 7,
-    "PriceCoins": 752,
+    "PriceCoins": 7520,
     "set": 10
   },
   {
@@ -645,7 +645,7 @@
     "Eitr": 0,
     "TotalStats": 120,
     "BiomeProgression": 7,
-    "PriceCoins": 960,
+    "PriceCoins": 9600,
     "set": 10
   },
   {
@@ -655,7 +655,7 @@
     "Eitr": 0,
     "TotalStats": 127,
     "BiomeProgression": 7,
-    "PriceCoins": 1016,
+    "PriceCoins": 10160,
     "set": 10
   },
   {
@@ -665,7 +665,7 @@
     "Eitr": 0,
     "TotalStats": 134,
     "BiomeProgression": 7,
-    "PriceCoins": 1072,
+    "PriceCoins": 10720,
     "set": 10
   },
   {
@@ -675,7 +675,7 @@
     "Eitr": 0,
     "TotalStats": 140,
     "BiomeProgression": 7,
-    "PriceCoins": 1120,
+    "PriceCoins": 11200,
     "set": 10
   },
   {
@@ -685,7 +685,7 @@
     "Eitr": 0,
     "TotalStats": 120,
     "BiomeProgression": 7,
-    "PriceCoins": 960,
+    "PriceCoins": 9600,
     "set": 10
   },
   {
@@ -695,7 +695,7 @@
     "Eitr": 0,
     "TotalStats": 127,
     "BiomeProgression": 7,
-    "PriceCoins": 1016,
+    "PriceCoins": 10160,
     "set": 10
   },
   {
@@ -705,7 +705,7 @@
     "Eitr": 0,
     "TotalStats": 134,
     "BiomeProgression": 7,
-    "PriceCoins": 1072,
+    "PriceCoins": 10720,
     "set": 10
   },
   {
@@ -715,7 +715,7 @@
     "Eitr": 85,
     "TotalStats": 127,
     "BiomeProgression": 7,
-    "PriceCoins": 1016,
+    "PriceCoins": 10160,
     "set": 10
   },
   {
@@ -725,7 +725,7 @@
     "Eitr": 90,
     "TotalStats": 135,
     "BiomeProgression": 7,
-    "PriceCoins": 1080,
+    "PriceCoins": 10800,
     "set": 10
   },
   {
@@ -735,7 +735,7 @@
     "Eitr": 95,
     "TotalStats": 143,
     "BiomeProgression": 7,
-    "PriceCoins": 1144,
+    "PriceCoins": 11440,
     "set": 10
   },
   {
@@ -745,7 +745,7 @@
     "Eitr": 38,
     "TotalStats": 188,
     "BiomeProgression": 7,
-    "PriceCoins": 4512,
+    "PriceCoins": 45120,
     "Note": "Platter food with x3 price multiplier.",
     "set": 10
   }
