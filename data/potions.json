@@ -1,107 +1,107 @@
 [
   {
     "Name": "Minor healing mead",
-    "PriceCoins": 15,
+    "PriceCoins": 45,
     "set": 3
   },
   {
     "Name": "Minor stamina mead",
-    "PriceCoins": 10,
-    "set": 3
-  },
-  {
-    "Name": "Tasty mead",
-    "PriceCoins": 30,
-    "set": 3
-  },
-  {
-    "Name": "Frost resistance mead",
-    "PriceCoins": 50,
-    "set": 3
-  },
-  {
-    "Name": "Poison resistance mead",
-    "PriceCoins": 50,
-    "set": 3
-  },
-  {
-    "Name": "Medium healing mead",
     "PriceCoins": 40,
     "set": 3
   },
   {
+    "Name": "Tasty mead",
+    "PriceCoins": 60,
+    "set": 3
+  },
+  {
+    "Name": "Frost resistance mead",
+    "PriceCoins": 80,
+    "set": 3
+  },
+  {
+    "Name": "Poison resistance mead",
+    "PriceCoins": 80,
+    "set": 3
+  },
+  {
+    "Name": "Medium healing mead",
+    "PriceCoins": 70,
+    "set": 3
+  },
+  {
     "Name": "Berserkir mead",
-    "PriceCoins": 200,
+    "PriceCoins": 230,
     "set": 3
   },
   {
     "Name": "Fire resistance barley wine",
-    "PriceCoins": 100,
+    "PriceCoins": 130,
     "set": 3
   },
   {
     "Name": "Medium stamina mead",
-    "PriceCoins": 50,
+    "PriceCoins": 80,
     "set": 3
   },
   {
     "Name": "Major healing mead",
-    "PriceCoins": 150,
+    "PriceCoins": 180,
     "set": 3
   },
   {
     "Name": "Lingering healing mead",
-    "PriceCoins": 250,
+    "PriceCoins": 280,
     "set": 3
   },
   {
     "Name": "Lingering stamina mead",
-    "PriceCoins": 250,
+    "PriceCoins": 280,
     "set": 3
   },
   {
     "Name": "Minor eitr mead",
-    "PriceCoins": 100,
+    "PriceCoins": 130,
     "set": 3
   },
   {
     "Name": "Lingering eitr mead",
-    "PriceCoins": 250,
+    "PriceCoins": 280,
     "set": 3
   },
   {
     "Name": "Anti-sting concoction",
-    "PriceCoins": 500,
+    "PriceCoins": 530,
     "set": 3
   },
   {
     "Name": "Draught of Vananidir",
-    "PriceCoins": 300,
+    "PriceCoins": 330,
     "set": 3
   },
   {
     "Name": "Tonic of Ratatosk",
-    "PriceCoins": 300,
+    "PriceCoins": 330,
     "set": 3
   },
   {
     "Name": "Mead of Troll endurance",
-    "PriceCoins": 300,
+    "PriceCoins": 330,
     "set": 3
   },
   {
     "Name": "Brew of animal whispers",
-    "PriceCoins": 300,
+    "PriceCoins": 330,
     "set": 3
   },
   {
     "Name": "Lightfoot mead",
-    "PriceCoins": 300,
+    "PriceCoins": 330,
     "set": 3
   },
   {
     "Name": "Love potion",
-    "PriceCoins": 2,
+    "PriceCoins": 32,
     "set": 3,
     "Note": "Fixed price of 100 coins for 5 bottles, based on trader cost."
   }
